@@ -11,7 +11,7 @@
   </a>
 </p>
 
-I’m a **Software Engineer** and **M.S. graduate from RIT** who enjoys building scalable, reliable systems across backend services, cloud platforms, and modern web applications.[file:21][file:20] Most of my work sits at the intersection of **Java/Spring microservices, AI/ML‑driven features, and cloud‑native architectures** to solve real-world problems end to end.[file:21][file:20]  
+I’m a **Software Engineer** and **M.S. graduate from RIT** who enjoys building scalable, reliable systems across backend services, cloud platforms, and modern web applications. Most of my work sits at the intersection of **Java/Spring microservices, AI/ML‑driven features, and cloud‑native architectures** to solve real-world problems end to end.  
 
 ---
 
@@ -19,13 +19,13 @@ I’m a **Software Engineer** and **M.S. graduate from RIT** who enjoys building
   <h3 style="font-family: Cambria; font-size: 16px;">About Me</h3>
   <small>
     <ul>
-      <li>🎓 Software Engineer & Master of Science graduate from <b>Rochester Institute of Technology</b>, focused on software engineering, scalable systems, and AI/ML applications.[file:21][file:20]</li>
-      <li>💼 Hands-on experience in <b>full‑stack development, microservices, and Android privacy leak detection</b>, including research and production‑grade backend systems.[file:21][file:20]</li>
-      <li>❤️ Passionate about <b>software architecture, cloud-native platforms, and end-to-end automation</b> — from design to deployment.[file:21][file:20]</li>
-      <li>🌱 Currently diving deeper into <b>Infrastructure as Code</b> (AWS CDK, CloudFormation), scalable system design, and growing toward a <b>Software Architect</b> role.[file:21][file:20]</li>
-      <li>🔭 Strong interest in <b>scalable software design</b> and the intersection of <b>data science, ML models, and reliable software systems</b>.[file:21][file:20]</li>
-      <li>🧩 Enjoy working across the stack — Java/Spring Boot & Python/Flask backends → React/TypeScript frontends → AWS/GCP cloud and CI/CD automation.[file:21][file:20]</li>
-      <li>⚡ Fun fact: I’m into tactical shooters like Valorant & CS:GO and a huge fan of Game of Thrones and House of the Dragon lore.[file:21]</li>
+      <li>🎓 Software Engineer & Master of Science graduate from <b>Rochester Institute of Technology</b>, focused on software engineering, scalable systems, and AI/ML applications.</li>
+      <li>💼 Experience across <b>full‑stack development, microservices, and Android privacy leak detection</b>, including research and production‑grade backend systems.</li>
+      <li>❤️ Passionate about <b>software architecture, cloud-native platforms, and end-to-end automation</b> — from design to deployment.</li>
+      <li>🌱 Currently diving deeper into <b>Infrastructure as Code</b> (AWS CDK, CloudFormation), scalable system design, and growing toward a <b>Software Architect</b> role.</li>
+      <li>🔭 Strong interest in <b>scalable software design</b> and the intersection of <b>data science, ML models, and reliable software systems</b>.</li>
+      <li>🧩 Enjoy working across the stack — Java/Spring Boot & Python/Flask backends → React/TypeScript frontends → AWS/GCP cloud and CI/CD automation.</li>
+      <li>⚡ Fun fact: I’m into tactical shooters like Valorant & CS:GO and a huge fan of Game of Thrones and House of the Dragon lore.</li>
       <li>📫 Reach me anytime at: <a href="mailto:lahir1269@gmail.com">lahir1269@gmail.com</a></li>
     </ul>
   </small>
@@ -111,10 +111,21 @@ I’m a **Software Engineer** and **M.S. graduate from RIT** who enjoys building
 <h3 style="font-family: Cambria; font-size: 16px;">Experience Snapshot</h3>
 <small>
   <ul>
-    <li><b>Microservices & Backend:</b> Built and maintained Java/Spring Boot and Python/Flask services, focusing on clean APIs, modular design, and performance for production workloads.[file:21][file:20]</li>
-    <li><b>AI/ML & Research:</b> Worked on Android privacy leak detection and ML-driven components, combining data pipelines with robust backend engineering.[file:21][file:20]</li>
-    <li><b>Full-stack Delivery:</b> Implemented end-to-end features from database schema and REST APIs up through React/TypeScript frontends, ensuring UX, reliability, and observability.[file:21][file:20]</li>
-    <li><b>Cloud & DevOps:</b> Deployed applications on AWS/GCP using CI/CD pipelines, containers, and infrastructure automation to reduce manual ops and improve release cadence.[file:21][file:20]</li>
+    <li><b>Graduate & Research Work @ RIT:</b> Developed Android privacy leak detection systems and ML-backed analyses, combining software engineering with applied machine learning.</li>
+    <li><b>Full-Stack & Microservices Projects:</b> Built Java/Spring Boot and Python/Flask services with RESTful APIs, integrated with modern frontends and cloud infrastructure.</li>
+    <li><b>Industry & Internship Experience:</b> Contributed to production-grade systems with a focus on reliability, clean architecture, and maintainable codebases.</li>
+  </ul>
+</small>
+
+---
+
+<h3 style="font-family: Cambria; font-size: 16px;">What I Do</h3>
+<small>
+  <ul>
+    <li><b>Microservices & Backend:</b> Design and build services with clear boundaries, strong contracts, and an emphasis on performance and observability.</li>
+    <li><b>AI/ML & Data:</b> Integrate ML models and data pipelines into products in a way that is robust, testable, and scalable.</li>
+    <li><b>Full-stack Delivery:</b> Take features from idea → schema → API → UI, ensuring a smooth experience across frontend and backend.</li>
+    <li><b>Cloud & DevOps:</b> Use AWS/GCP, containers, and CI/CD to ship features quickly while keeping deployments repeatable and low-friction.</li>
   </ul>
 </small>
 
@@ -123,10 +134,10 @@ I’m a **Software Engineer** and **M.S. graduate from RIT** who enjoys building
 <h3 style="font-family: Cambria; font-size: 16px;">What I’m Learning Now</h3>
 <small>
   <ul>
-    <li>Deepening full-stack patterns with <b>React</b> frontends and <b>Java/Python</b> service backends for scalable, modular architectures.[file:21][file:20]</li>
-    <li>Exploring advanced cloud patterns with <b>AWS</b> (CDK, CloudFormation, serverless, event-driven designs) and production‑grade observability.[file:21][file:20]</li>
-    <li>Strengthening <b>Infrastructure as Code</b> and <b>CI/CD</b> workflows using GitHub Actions, GitLab CI, Docker, and multi-environment pipelines.[file:21][file:20]</li>
-    <li>Studying system design and architecture principles to move toward a <b>Software Architect</b> role focused on reliability, scalability, and cost optimization.[file:21][file:20]</li>
+    <li>Deepening full-stack patterns with <b>React</b> frontends and <b>Java/Python</b> service backends for scalable, modular architectures.</li>
+    <li>Exploring advanced cloud patterns with <b>AWS</b> (CDK, CloudFormation, serverless, event-driven designs) and production‑grade observability.</li>
+    <li>Strengthening <b>Infrastructure as Code</b> and <b>CI/CD</b> workflows using GitHub Actions, GitLab CI, Docker, and multi-environment pipelines.</li>
+    <li>Studying system design and architecture principles to move toward a <b>Software Architect</b> role focused on reliability, scalability, and cost optimization.</li>
   </ul>
 </small>
 
@@ -135,7 +146,7 @@ I’m a **Software Engineer** and **M.S. graduate from RIT** who enjoys building
 <h3 style="font-family: Cambria; font-size: 16px;">🎮 Beyond Code</h3>
 <small>
   <ul>
-    <li>Gamer at heart: you’ll often find me on <b>Valorant</b>, <b>CS:GO</b>, or exploring new titles on Steam and Epic.[file:21]</li>
+    <li>Gamer at heart: you’ll often find me on <b>Valorant</b>, <b>CS:GO</b>, or exploring new titles on Steam and Epic.</li>
     <li>Big fan of rich storytelling universes, especially <b>Game of Thrones</b> and <b>House of the Dragon</b>.</li>
   </ul>
 </small>
