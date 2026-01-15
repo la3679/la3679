@@ -132,18 +132,6 @@ I’m a **Software Engineer** and **M.S. graduate from RIT** who enjoys building
 
 ---
 
-<h3 style="font-family: Cambria; font-size: 16px;">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=la3679&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=la3679&theme=dark&hide_border=false" alt="GitHub Streak">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=la3679&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
-
----
-
 <h3 style="font-family: Cambria; font-size: 16px;">🎮 Beyond Code</h3>
 <small>
   <ul>
