@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center"><strong>500K+ / day</strong><br><sub>transactions on Spring Boot and Kafka</sub></td>
-    <td align="center"><strong>86,836,964</strong><br><sub>Android log entries analyzed for EASE 2026</sub></td>
+    <td align="center"><strong>86.8M</strong><br><sub>Android log entries analyzed for EASE 2026</sub></td>
     <td align="center"><strong>14 sec → 2.1 sec</strong><br><sub>PostgreSQL report-generation improvement</sub></td>
   </tr>
 </table>
