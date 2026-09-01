@@ -90,6 +90,7 @@
 - Co-authored an EASE 2026 Research Track paper, built Python/ADB/Logcat automation for large-scale Android analysis, and supported graduate software-quality instruction.
 
 ---
+
 ## 🚀 Flagship Engineering Projects
 
 | Project | What it demonstrates | Core stack |
@@ -108,61 +109,22 @@
 </p>
 
 ---
+
 ## 🔬 Published Research
 
-<div align="center">
+**[Do Privacy Policies Match with the Logs?](https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-)** — EASE 2026 Research Track · [arXiv preprint](https://arxiv.org/abs/2604.18552)
 
-### [Do Privacy Policies Match with the Logs?](https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-)
-
-*An Empirical Study of Privacy Disclosure in Android Application Logs*
-
-<p>
-  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/ACM_EASE_2026-Research_Track-8A2BE2?style=for-the-badge&amp;logo=acm&amp;logoColor=white" alt="ACM EASE 2026 Research Track"></a>
-  <a href="https://arxiv.org/abs/2604.18552"><img src="https://img.shields.io/badge/arXiv-2604.18552-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv preprint"></a>
-</p>
-
-</div>
-
-- Analyzed **1,000 Android applications** and generated **86,836,964 runtime log entries**.
-- Found that **67.6%** of studied apps leaked sensitive information not disclosed in their privacy policies.
-- Observed full alignment between policy contents and actual logged data in only **0.4%** of applications.
-- Built automated collection and analysis tooling with **Python, ADB, Monkey, and Logcat**.
+Co-authored an empirical study of **1,000 Android applications** and **86,836,964 runtime log entries**. We found undisclosed sensitive-data leakage in **67.6%** of studied apps and full policy/log alignment in only **0.4%**; the analysis pipeline used Python, ADB, Monkey, and Logcat.
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education
 
-### Rochester Institute of Technology
-
-**MS, Computer Software Engineering** · GPA: **3.94/4.0** · August 2023 – December 2025
-
-Cloud Computing · Software Architecture · Database Design · Non-Relational Data Storage · Machine Learning · Natural Language Processing
-
-### LJ Institute of Engineering and Technology / Gujarat Technological University
-
-**B.E., Electronics and Communication Engineering** · GPA: **3.81/4.0** · August 2019 – May 2023
-
-### Credentials & Continued Learning
-
-- [Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press](https://www.linkedin.com/learning/certificates/53b8f4559dd722ff7fb5e3a6438894f33da0e7cb07636ca3936ff99f150ab5bc) — LinkedIn Learning course completion, June 2025.
-- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/b7e85032290a4f063ef4905f75d28d23df2ef7d98a738df62e79268b6ce3eb14) — Learning path, June 2025.
-- [Python Essential Training](https://www.linkedin.com/learning/certificates/4c32a950aef5b51ab3e526d3daa47af2bdb69bc99c58400c61d4fb4243674cce) — LinkedIn Learning, May 2025.
-- [Learning Data Analytics: Foundations](https://www.linkedin.com/learning/certificates/b3e66a7d7344afa613aea09e7dba21533b25eb62d2d6506917ca3e6f1f6ca3f3) — LinkedIn Learning, June 2025.
+| Institution | Degree | Details |
+|---|---|---|
+| **Rochester Institute of Technology** | MS, Computer Software Engineering | GPA **3.94/4.0** · Graduated December 2025 |
+| **LJ Institute of Engineering and Technology / Gujarat Technological University** | B.E., Electronics and Communication Engineering | GPA **3.81/4.0** · Graduated May 2023 |
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in building meaningful products with strong engineering teams—especially in **backend and platform engineering, distributed systems, cloud infrastructure, full-stack products, and production AI**.
-
-<p align="center">
-  <a href="https://loveahir.com"><img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&amp;logo=aboutdotme&amp;logoColor=white" alt="Explore my portfolio"></a>
-  <a href="https://www.linkedin.com/in/love-ahir/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:lahir1269@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=la3679&amp;label=Profile+Views&amp;color=6C63FF&amp;style=for-the-badge" alt="GitHub profile views">
-</p>
-
-<p align="center"><sub>Built with curiosity, careful engineering, and probably too much coffee.</sub></p>
+<p align="center"><sub>Outside engineering: strategy games, Game of Thrones / House of the Dragon lore, and the occasional Valorant match.</sub></p>
