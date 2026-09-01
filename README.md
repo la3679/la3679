@@ -54,59 +54,15 @@
 
 ---
 
-## 🛠️ Technology Stack
+## 🧰 Core Technology Stack
 
-### AI, LLMs & Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=for-the-badge&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Retrieval-Augmented Generation">
-  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Bedrock">
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&amp;logo=meta&amp;logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&amp;logo=spacy&amp;logoColor=white" alt="spaCy">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini">
-</p>
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cs,cpp,c&amp;theme=dark" alt="Python, Java, TypeScript, JavaScript, C Sharp, C Plus Plus, and C">
-</p>
-
-### Backend, APIs & Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,fastapi,flask,spring,dotnet,graphql,tailwind&amp;theme=dark" alt="React, Next.js, Angular, Node.js, Express, FastAPI, Flask, Spring, .NET, GraphQL, and Tailwind CSS">
-</p>
-
-<p align="center"><code>REST APIs</code> · <code>Microservices</code> · <code>WebSockets</code> · <code>React Native</code> · <code>D3.js</code> · <code>Hibernate</code> · <code>OpenAPI</code></p>
-
-### Databases, Messaging, Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,kafka,aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,grafana,prometheus&amp;theme=dark&amp;perline=15" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase, Kafka, AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Grafana, and Prometheus">
-</p>
-
-<p align="center"><code>DynamoDB</code> · <code>Neo4j</code> · <code>RabbitMQ</code> · <code>OpenShift</code> · <code>CloudWatch</code> · <code>ECS/Fargate</code> · <code>S3</code> · <code>Lambda</code></p>
-
-### Testing, Observability & Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,selenium,vscode,idea,pycharm&amp;theme=dark" alt="Git, GitHub, Linux, Bash, Postman, Selenium, VS Code, IntelliJ IDEA, and PyCharm">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="pytest">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqubecloud&amp;logoColor=white" alt="SonarQube">
-</p>
+| Focus | Technologies |
+|---|---|
+| **AI & LLM Systems** | Python · LangGraph · LangChain · RAG · OpenAI · AWS Bedrock · FAISS |
+| **Backend & Distributed Systems** | FastAPI · Java · Spring Boot · Node.js · .NET · Kafka · REST APIs · Redis |
+| **Frontend** | React · TypeScript · Next.js · Angular |
+| **Data & Cloud** | PostgreSQL · MongoDB · AWS · GCP · Docker · Kubernetes · Terraform |
+| **Engineering Quality** | GitHub Actions · pytest · JUnit · Playwright · OpenTelemetry · Datadog · Grafana · Prometheus |
 
 ---
 
@@ -116,39 +72,24 @@
 
 `August 2025 – Present` · `Phoenix, Arizona`
 
-- Architected eight event-driven FastAPI services on AWS ECS/Fargate with Redis, OAuth2/JWT, and asynchronous task processing, supporting **99.97% uptime**.
-- Built React and TypeScript dashboards with D3.js and WebSocket feeds for more than **200 fixed-income users**, reducing decision latency by **45%**.
-- Designed LangGraph multi-agent workflows and controlled tool use for trade-exception handling, reducing manual intervention by **65%**.
-- Implemented RAG over **10M+ documents**, cutting analyst lookup time from approximately **8 minutes to under 90 seconds**.
-- Added Datadog LLM traces, automated quality gates, and CI/CD pipelines that reduced deployment cycles by **50%**.
+- Designed LangGraph multi-agent workflows with controlled tool use and human review, reducing manual trade-exception intervention by **65%**.
+- Built eight event-driven FastAPI services on AWS ECS/Fargate and React/TypeScript operational interfaces, supporting **99.97% uptime**.
+- Implemented RAG across **10M+ documents**, reducing analyst lookup from approximately **8 minutes to under 90 seconds**, with Datadog LLM traces and automated quality gates.
 
 ### Software Engineer 2 / Associate Developer · Sage Softtech Pvt. Ltd.
 
 `February 2021 – July 2023` · `Ahmedabad, India`
 
-- Built Java and Spring Boot microservices with Kafka for a platform processing **500K+ daily transactions**.
-- Optimized PostgreSQL schemas, joins, and migrations on GCP Cloud SQL, reducing report generation from **14 seconds to 2.1 seconds**.
-- Developed reusable React components, Python services, observability dashboards, and automated delivery workflows.
+- Built Java/Spring Boot microservices and Kafka workflows for a platform processing **500K+ transactions per day**.
+- Optimized PostgreSQL schemas and queries from **14 seconds to 2.1 seconds**, while contributing React components, Python services, observability, and delivery automation.
 
 ### Graduate Research & Teaching Assistant · Rochester Institute of Technology
 
 `August 2024 – December 2025` · `Rochester, New York`
 
-- Co-authored an EASE 2026 Research Track paper and built Python, ADB, Monkey, and Logcat automation for large-scale Android analysis.
-- Supported graduate Software Quality Assurance instruction, technical discussions, testing methodology, and research evaluation.
-
-<details>
-<summary><strong>Additional engineering experience</strong></summary>
-
-<br>
-
-- **Software Engineer Intern · Axisray Pvt. Ltd.** — Java/Spring Boot microservices and ML-powered product features.
-- **Data Science & AI/ML Intern · Moon Technolabs Pvt. Ltd.** — predictive analytics and AI-driven supply-chain workflows.
-
-</details>
+- Co-authored an EASE 2026 Research Track paper, built Python/ADB/Logcat automation for large-scale Android analysis, and supported graduate software-quality instruction.
 
 ---
-
 ## 🚀 Featured Engineering Projects
 
 <table>
