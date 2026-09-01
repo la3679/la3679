@@ -94,7 +94,6 @@
     <td>
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,gcp,docker,kubernetes,terraform&amp;theme=dark" height="34" alt="PostgreSQL, MongoDB, MySQL, AWS, GCP, Docker, Kubernetes, Terraform">
       &nbsp;<img src="https://img.shields.io/badge/ECS%2FFargate-FF9900?style=flat-square&amp;logo=amazonecs&amp;logoColor=white" alt="AWS ECS and Fargate">
-      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j">
     </td>
   </tr>
   <tr>
@@ -105,7 +104,6 @@
       <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
       <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest">
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&amp;logo=sonarqubecloud&amp;logoColor=white" alt="SonarQube">
     </td>
   </tr>
 </table>
@@ -142,7 +140,7 @@
 <br>
 
 - **Software Engineer Intern · Axisray Pvt. Ltd.** — Java/Spring Boot microservices and ML-powered product features.
-- **Data Science & AI/ML Intern · Moon Technolabs Pvt. Ltd.** — predictive analytics and AI-driven supply-chain workflows.
+- **Data Science &amp; AI/ML Intern · Moon Technolabs Pvt. Ltd.** — predictive analytics and AI-driven supply-chain workflows.
 
 </details>
 
@@ -249,43 +247,27 @@
 *An Empirical Study of Privacy Disclosure in Android Application Logs*
 
 <p>
-  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/ACM_EASE_2026-Research_Track-8A2BE2?style=for-the-badge&amp;logo=acm&amp;logoColor=white" alt="ACM EASE 2026 Research Track"></a>
-  <a href="https://arxiv.org/abs/2604.18552"><img src="https://img.shields.io/badge/arXiv-2604.18552-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv preprint"></a>
+  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/EASE_2026-Research_Track-8A2BE2?style=for-the-badge&amp;logo=acm&amp;logoColor=white" alt="EASE 2026 Research Track"></a>
+  <a href="https://arxiv.org/abs/2604.18552"><img src="https://img.shields.io/badge/arXiv-2604.18552-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv preprint 2604.18552"></a>
 </p>
 
 </div>
 
-- Analyzed **1,000 Android applications** and generated **86,836,964 runtime log entries**.
-- Found that **67.6%** of studied apps leaked sensitive information not disclosed in their privacy policies.
-- Observed full alignment between policy contents and actual logged data in only **0.4%** of applications.
-- Built automated collection and analysis tooling with **Python, ADB, Monkey, and Logcat**.
+Built Python, ADB, Monkey, and Logcat automation to instrument **1,000 Android applications** and capture **86,836,964 runtime log entries**, then measured those logs against each application's stated privacy policy. **67.6%** of applications leaked sensitive information their policies never mention, and only **0.4%** showed consistent alignment between declared policy and actual logging behavior.
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education
 
-### Rochester Institute of Technology
+**Rochester Institute of Technology** — MS, Computer Software Engineering · GPA **3.94/4.0** · August 2023 – December 2025
 
-**MS, Computer Software Engineering** · GPA: **3.94/4.0** · August 2023 – December 2025
-
-Cloud Computing · Software Architecture · Database Design · Non-Relational Data Storage · Machine Learning · Natural Language Processing
-
-### LJ Institute of Engineering and Technology / Gujarat Technological University
-
-**B.E., Electronics and Communication Engineering** · GPA: **3.81/4.0** · August 2019 – May 2023
-
-### Credentials & Continued Learning
-
-- [Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press](https://www.linkedin.com/learning/certificates/53b8f4559dd722ff7fb5e3a6438894f33da0e7cb07636ca3936ff99f150ab5bc) — LinkedIn Learning course completion, June 2025.
-- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/b7e85032290a4f063ef4905f75d28d23df2ef7d98a738df62e79268b6ce3eb14) — Learning path, June 2025.
-- [Python Essential Training](https://www.linkedin.com/learning/certificates/4c32a950aef5b51ab3e526d3daa47af2bdb69bc99c58400c61d4fb4243674cce) — LinkedIn Learning, May 2025.
-- [Learning Data Analytics: Foundations](https://www.linkedin.com/learning/certificates/b3e66a7d7344afa613aea09e7dba21533b25eb62d2d6506917ca3e6f1f6ca3f3) — LinkedIn Learning, June 2025.
+**Gujarat Technological University** — B.E., Electronics and Communication Engineering · GPA **3.81/4.0** · August 2019 – May 2023
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in building meaningful products with strong engineering teams—especially in **backend and platform engineering, distributed systems, cloud infrastructure, full-stack products, and production AI**.
+I am open to Software Engineer, Backend, Full-Stack, Platform, Cloud, and AI Engineering roles — especially teams working on distributed systems, developer platforms, and production AI.
 
 <p align="center">
   <a href="https://loveahir.com"><img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&amp;logo=aboutdotme&amp;logoColor=white" alt="Explore my portfolio"></a>
@@ -294,7 +276,5 @@ I'm interested in building meaningful products with strong engineering teams—e
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=la3679&amp;label=Profile+Views&amp;color=6C63FF&amp;style=for-the-badge" alt="GitHub profile views">
+  <img src="https://komarev.com/ghpvc/?username=la3679&amp;label=Profile+Views&amp;color=6C63FF&amp;style=flat-square" alt="GitHub profile views">
 </p>
-
-<p align="center"><sub>Built with curiosity, careful engineering, and probably too much coffee.</sub></p>
