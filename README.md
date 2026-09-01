@@ -148,67 +148,77 @@
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Flagship Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/tradeops-insight">TradeOps Copilot</a></h3>
-      <p>A review-first investigation console for deterministic synthetic trade exceptions, combining evidence-grounded RAG, a typed LangGraph workflow, RBAC, audit history, observability, and human approval gates.</p>
+      <p>Trade-exception investigation is manual, repetitive, and audit-sensitive. This review-first console pairs deterministic reconciliation with evidence-grounded RAG behind an interruptible 13-node LangGraph workflow, so every AI conclusion is citable, replayable, and gated on human approval.</p>
+      <p align="center"><sub><strong>Architecture:</strong> interruptible agent graph · server-enforced RBAC · append-only audit trail</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/sentinelflow">SentinelFlow</a></h3>
-      <p>An event-driven transaction-risk platform built with synthetic data, transactional outbox delivery, idempotent Kafka processing, deterministic rules, model scoring, and full-stack observability.</p>
+      <p>An event-driven transaction-risk platform where a payment is published exactly once through a transactional outbox, scored by a calibrated model alongside a transparent ruleset, and worked to a defensible verdict by an analyst. Built to survive redelivery, not just to demo a happy path.</p>
+      <p align="center"><sub><strong>Architecture:</strong> transactional outbox · idempotent Kafka consumers · distributed tracing</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka">
-        <img src="https://img.shields.io/badge/Active_Development-6C63FF?style=flat-square" alt="Active development">
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI scoring service">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a></h3>
-      <p>A cross-runtime enterprise integration platform with schema transformation, correlation IDs, retries, circuit breaking, idempotent upserts, and explicit partial-success handling.</p>
+      <h3 align="center"><a href="https://github.com/la3679/webops-commander">WebOps Commander</a></h3>
+      <p>A browser-native incident command center that exposes 15 schema-constrained operational tools to AI agents over WebMCP. Agents investigate telemetry and simulate mitigation freely, while anything that would change production stays blocked until a human authorizes it as a separate, auditable step.</p>
+      <p align="center"><sub><strong>Architecture:</strong> WebMCP tool registration · request/authorize/execute split · shared agent-UI state</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js 16">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/WebMCP-5A29E4?style=flat-square" alt="WebMCP">
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white" alt="Zod">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a></h3>
+      <p>Enterprise systems rarely agree on schema, uptime, or error format. This platform coordinates an Angular front end through a Node.js gateway into independently deployed FastAPI and .NET services, holding one correlation ID and one consistent error contract across every runtime boundary.</p>
+      <p align="center"><sub><strong>Architecture:</strong> retries and circuit breaking · idempotent upserts · explicit partial-success handling</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular 17">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/ResuMatch-AI">ResuMatch AI</a></h3>
-      <p>A full-stack career platform for resume analysis, ATS optimization, semantic job matching, cover-letter generation, application tracking, and secure server-side Gemini integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/VidKing-AI-Streaming">VidKing AI Streaming</a></h3>
-      <p>A cinematic full-stack streaming experience with TMDB search, Gemini recommendations, secure server-side AI calls, Firebase authentication, synchronized watchlists, and TV episode flows.</p>
+      <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
+      <p>A duel engine that actually understands the rules rather than leaving them to the players: it owns game state, builds and resolves chains, runs the damage step sub-step by sub-step, and emits semantic events. Seeded replay and per-player hidden-information views make every duel reproducible from its inputs.</p>
+      <p align="center"><sub><strong>Architecture:</strong> authoritative state machine · deterministic seeded replay · 5,509 assertions across 63 suites</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React 19">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
+        <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4">
+        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
+        <img src="https://img.shields.io/badge/Rules_Engine-2F855A?style=flat-square" alt="Rules engine">
+        <img src="https://img.shields.io/badge/Active_Development-6C63FF?style=flat-square" alt="Active development">
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/ARLabs">AR Gesture Lab</a></h3>
-      <p>An AR automation test harness that projects live 3D world coordinates into screen pixels so Appium can reliably automate tap, drag, long-press, and pinch gestures.</p>
+      <p>Automating gestures against a 3D object is hard because its screen projection changes every frame. This harness continuously projects world coordinates into screen pixels and publishes them to the DOM, giving Appium a stable target for tap, drag, long-press, and pinch on a moving AR object.</p>
+      <p align="center"><sub><strong>Architecture:</strong> per-frame coordinate bridge · device-independent gesture automation</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
@@ -217,31 +227,15 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
-      <p>A deterministic, rules-aware card-game engine with authoritative state transitions, official timing research, seeded replay, hidden-information views, and thousands of passing assertions.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4">
-        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
-        <img src="https://img.shields.io/badge/Engine_First-2EA44F?style=flat-square" alt="Engine first">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/Pok-dex">Pokédex MongoDB Platform</a></h3>
-      <p>A full-stack Pokédex, battle game, and sightings map backed by 296K+ geospatial records, MongoDB 2dsphere indexing, GridFS, Flask APIs, and a responsive React interface.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/296K%2B_Records-6C63FF?style=flat-square" alt="296K+ records">
-      </p>
-    </td>
-  </tr>
 </table>
 
 <p align="center">
-  <a href="https://loveahir.com/work"><img src="https://img.shields.io/badge/View_All_Projects_and_Case_Studies-6C63FF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="View all projects and case studies"></a>
+  <sub>These are independent portfolio projects. They run on synthetic or public data, contain no proprietary employer code or information, and are unaffiliated with any employer.</sub>
+</p>
+
+<p align="center">
+  <a href="https://loveahir.com/work"><img src="https://img.shields.io/badge/Explore_more_projects_and_case_studies-6C63FF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="Explore more projects and case studies"></a>
+  <a href="https://github.com/la3679?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="All repositories"></a>
 </p>
 
 ---
