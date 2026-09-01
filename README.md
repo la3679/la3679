@@ -117,14 +117,44 @@
 
 ## 🚀 Flagship Engineering Projects
 
-| Project | What it demonstrates | Core stack |
-|---|---|---|
-| **[TradeOps Copilot](https://github.com/la3679/tradeops-insight)** | Independent, synthetic fixed-income exception investigation grounded in retrieved evidence. Typed LangGraph orchestration, human review gates, RBAC, audit history, evaluations, and OpenTelemetry keep AI actions inspectable. | Python · FastAPI · LangGraph · RAG · React · TypeScript |
-| **[SentinelFlow](https://github.com/la3679/sentinelflow)** | End-to-end transaction-risk and fraud-operations demo using synthetic data. Transactional outbox delivery, idempotent Kafka consumers, dead-letter handling, versioned contracts, model/rule scoring, and distributed tracing exercise real failure paths. | Java · Spring Boot · Kafka · FastAPI · PostgreSQL · React |
-| **[WebOps Commander](https://github.com/la3679/webops-commander)** | Browser-native incident-response simulator that registers 15 WebMCP tools with strict schemas. Read-only investigation is separated from rollback requests, visible human authorization, guarded execution, recovery, and audit events. | Next.js · React · TypeScript · WebMCP · Zod · Playwright |
-| **[Integration Operations Hub](https://github.com/la3679/integration-operations-hub)** | Cross-runtime integration workflow for synchronizing employee data across services. Correlation IDs, schema transformation, retries, circuit breaking, idempotent upserts, and partial-success reporting make integration behavior explicit. | Angular · Node.js · FastAPI · .NET · PostgreSQL |
-| **[AR Gesture Lab](https://github.com/la3679/ARLabs)** | AR automation harness that converts live 3D world coordinates into stable screen coordinates so Appium can drive tap, drag, long-press, and pinch gestures. | React · Three.js · React Three Fiber · Appium · Python |
-| **[Duel Arena](https://github.com/la3679/yu-gi-oh-duel-arena-godot)** | Deterministic, engine-first card-game architecture with authoritative state transitions, rules-aware chains and timing, hidden-information views, and seeded replay. The current engine implements 49 of 77 card effects and passes **5,509 assertions across 63 suites** in CI. | Godot 4 · GDScript · Rules engine · Headless CI |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/tradeops-insight">TradeOps Copilot</a></h3>
+      <p>Independent, synthetic fixed-income exception investigation grounded in retrieved evidence. Typed LangGraph orchestration, human review gates, RBAC, audit history, evaluations, and OpenTelemetry make AI actions inspectable.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=flat-square" alt="LangGraph"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/sentinelflow">SentinelFlow</a></h3>
+      <p>End-to-end transaction-risk and fraud-operations demo using synthetic data. Transactional outbox delivery, idempotent Kafka consumers, dead-letter handling, versioned contracts, model/rule scoring, and distributed tracing exercise real failure paths.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka"> <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry"></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/webops-commander">WebOps Commander</a></h3>
+      <p>Browser-native incident-response simulator that registers 15 WebMCP tools with strict schemas. Read-only investigation is separated from rollback requests, visible human authorization, guarded execution, recovery, and audit events.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/WebMCP-6C63FF?style=flat-square" alt="WebMCP"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a></h3>
+      <p>Cross-runtime integration workflow for synchronizing employee data across services. Correlation IDs, schema transformation, retries, circuit breaking, idempotent upserts, and partial-success reporting make integration behavior explicit.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET"></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/ARLabs">AR Gesture Lab</a></h3>
+      <p>AR automation harness that converts live 3D world coordinates into stable screen coordinates so Appium can drive tap, drag, long-press, and pinch gestures.</p>
+      <p align="center"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&amp;logo=appium&amp;logoColor=white" alt="Appium"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
+      <p>Deterministic, engine-first card-game architecture with authoritative state transitions, rules-aware chains and timing, hidden-information views, and seeded replay. The current engine implements 49 of 77 card effects and passes 5,509 assertions across 63 suites in CI.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Godot_4.7.1-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4.7.1"> <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript"> <img src="https://img.shields.io/badge/Assertions-5%2C509_passing-2EA44F?style=flat-square" alt="5,509 passing assertions"> <img src="https://img.shields.io/badge/Card_effects-49%2F77-6C63FF?style=flat-square" alt="49 of 77 card effects"></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://loveahir.com/work"><strong>Explore more projects and case studies →</strong></a>
