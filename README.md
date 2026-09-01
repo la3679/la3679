@@ -13,7 +13,7 @@
 <p>
   <a href="https://loveahir.com"><img src="https://img.shields.io/badge/Portfolio-loveahir.com-111827?style=for-the-badge&amp;logo=aboutdotme&amp;logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/love-ahir/"><img src="https://img.shields.io/badge/LinkedIn-Love_Ahir-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://loveahir.com/resume.pdf"><img src="https://img.shields.io/badge/Résumé-View-4B5563?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé"></a>
+  <a href="https://loveahir.com/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-4B5563?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé"></a>
   <a href="mailto:lahir1269@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
