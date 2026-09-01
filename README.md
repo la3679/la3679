@@ -60,51 +60,24 @@
 
 <table>
   <tr>
-    <td width="26%"><strong>🤖 AI &amp; LLM Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&amp;theme=dark" height="34" alt="Python, PyTorch, TensorFlow">
-      &nbsp;<img src="https://img.shields.io/badge/LangGraph-5A29E4?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
-      <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="Retrieval-augmented generation">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
-      <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Bedrock">
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&amp;logo=meta&amp;logoColor=white" alt="FAISS">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-    </td>
+    <td align="center" width="170"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&amp;theme=dark" height="36" alt="Python, PyTorch, TensorFlow"></td>
+    <td><strong>🤖 AI &amp; LLM Systems</strong><br><sub>Python · LangGraph · LangChain · RAG · OpenAI · AWS Bedrock · FAISS · PyTorch · TensorFlow · scikit-learn</sub></td>
   </tr>
   <tr>
-    <td><strong>⚙️ Backend &amp; Distributed Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,nodejs,express,kafka,redis,dotnet&amp;theme=dark" height="34" alt="Python, Java, Spring Boot, FastAPI, Node.js, Express, Kafka, Redis, .NET">
-      &nbsp;<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square" alt="REST APIs">
-      <img src="https://img.shields.io/badge/Event--Driven-0B7285?style=flat-square" alt="Event-driven architecture">
-      <img src="https://img.shields.io/badge/Microservices-2F855A?style=flat-square" alt="Microservices">
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,fastapi,kafka&amp;theme=dark" height="36" alt="Java, Spring Boot, FastAPI, Kafka"></td>
+    <td><strong>⚙️ Backend &amp; Distributed Systems</strong><br><sub>Java · Spring Boot · Python · FastAPI · Node.js · Express · Kafka · Redis · .NET 8 · REST APIs · Microservices · Event-Driven Architecture</sub></td>
   </tr>
   <tr>
-    <td><strong>🎨 Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,angular,tailwind,graphql&amp;theme=dark" height="34" alt="React, TypeScript, Next.js, Angular, Tailwind CSS, GraphQL">
-      &nbsp;<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&amp;logo=d3dotjs&amp;logoColor=white" alt="D3.js">
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="WebSockets">
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,nextjs,angular&amp;theme=dark" height="36" alt="React, TypeScript, Next.js, Angular"></td>
+    <td><strong>🎨 Frontend</strong><br><sub>React · TypeScript · Next.js · Angular · Tailwind CSS · GraphQL · D3.js · WebSockets</sub></td>
   </tr>
   <tr>
-    <td><strong>🗄️ Data &amp; Cloud</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,gcp,docker,kubernetes,terraform&amp;theme=dark" height="34" alt="PostgreSQL, MongoDB, MySQL, AWS, GCP, Docker, Kubernetes, Terraform">
-      &nbsp;<img src="https://img.shields.io/badge/ECS%2FFargate-FF9900?style=flat-square&amp;logo=amazonecs&amp;logoColor=white" alt="AWS ECS and Fargate">
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,docker&amp;theme=dark" height="36" alt="PostgreSQL, MongoDB, AWS, Docker"></td>
+    <td><strong>🗄️ Data &amp; Cloud</strong><br><sub>PostgreSQL · MongoDB · MySQL · AWS · GCP · Docker · Kubernetes · Terraform · ECS/Fargate</sub></td>
   </tr>
   <tr>
-    <td><strong>✅ Engineering Quality</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus,selenium,git&amp;theme=dark" height="34" alt="GitHub Actions, Jenkins, Grafana, Prometheus, Selenium, Git">
-      &nbsp;<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
-      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
-      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest">
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus,selenium&amp;theme=dark" height="36" alt="GitHub Actions, Grafana, Prometheus, Selenium"></td>
+    <td><strong>✅ Engineering Quality</strong><br><sub>GitHub Actions · Jenkins · OpenTelemetry · Datadog · Grafana · Prometheus · pytest · Playwright · Selenium</sub></td>
   </tr>
 </table>
 
