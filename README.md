@@ -1,25 +1,26 @@
 <div align="center">
 
-<h1>Hey there! I'm Love Jayesh Ahir 👋</h1>
+<h1>Love Jayesh Ahir</h1>
 
-<h3>Senior Full-Stack AI Engineer</h3>
+<h3>Software Engineer · Agentic AI · Full-Stack · Distributed Systems</h3>
 
 <a href="https://loveahir.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Agentic+AI+%E2%80%A2+Generative+AI+%E2%80%A2+LLMs;LangGraph+%E2%80%A2+LangChain+%E2%80%A2+RAG+%E2%80%A2+AWS+Bedrock;FastAPI+%E2%80%A2+React+%E2%80%A2+Cloud-Native+Systems;EASE+2026+Published+Researcher" alt="Typing animation: Agentic AI, cloud-native systems, and published research">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Agentic+AI+%E2%80%A2+Generative+AI+%E2%80%A2+LLM+Systems;Distributed+Systems+%E2%80%A2+Event-Driven+Architecture;FastAPI+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Cloud-Native;Production+AI+%E2%80%A2+RAG+%E2%80%A2+Observability" alt="Typing animation: agentic AI, distributed systems, cloud-native engineering, and production AI">
 </a>
+
+<p>I build complete systems — backend services, event-driven pipelines, AI orchestration, and the interfaces on top of them.</p>
 
 <p>
   <a href="https://loveahir.com"><img src="https://img.shields.io/badge/Portfolio-loveahir.com-111827?style=for-the-badge&amp;logo=aboutdotme&amp;logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/love-ahir/"><img src="https://img.shields.io/badge/LinkedIn-Love_Ahir-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/la3679?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub projects"></a>
+  <a href="https://loveahir.com/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-4B5563?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé"></a>
   <a href="mailto:lahir1269@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
-  <a href="https://loveahir.com/resume.pdf"><img src="https://img.shields.io/badge/Résumé-View-4B5563?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé"></a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Phoenix%2C_AZ-United_States-6C63FF?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Phoenix, Arizona">
-  <img src="https://img.shields.io/badge/Experience-5%2B_Years-00A98F?style=flat-square" alt="5+ years of experience">
-  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/EASE_2026-Published_Researcher-8A2BE2?style=flat-square&amp;logo=acm&amp;logoColor=white" alt="EASE 2026 Published Researcher"></a>
+  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/EASE_2026-Published_Researcher-8A2BE2?style=flat-square&amp;logo=acm&amp;logoColor=white" alt="EASE 2026 published researcher"></a>
+  <img src="https://img.shields.io/badge/MS_Software_Engineering-RIT-F76902?style=flat-square" alt="MS Computer Software Engineering, RIT">
   <img src="https://img.shields.io/badge/Open_to-Software_Engineering_Roles-2EA44F?style=flat-square" alt="Open to software engineering roles">
 </p>
 
@@ -29,16 +30,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Full-Stack AI Engineer with 5+ years of experience** building agentic AI, generative AI, backend platforms, and cloud-native applications. I work across the full product lifecycle—from distributed services, APIs, databases, and event pipelines to React interfaces, AI evaluation, observability, security, and production delivery.
-
-- 💼 At **Morgan Stanley**, I build agentic AI and full-stack systems for fixed-income operations using LangGraph, RAG, FastAPI, React, TypeScript, and AWS.
-- 🤖 I specialize in **multi-agent orchestration, retrieval-augmented generation, LLM evaluation, guardrails, tool calling, and human-in-the-loop workflows**.
-- ⚙️ My backend work spans **Python, Java, Node.js, C#, REST APIs, microservices, distributed systems, Kafka, PostgreSQL, and Redis**.
-- ☁️ I ship cloud-native systems with **AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, and production observability**.
-- 🎓 I earned an **MS, Computer Software Engineering from RIT** with a **3.94/4.0 GPA** in December 2025.
-- 🔬 I am a published **EASE 2026 researcher**, studying privacy disclosure across 1,000 Android applications and 86M+ runtime log entries.
-- 📍 Based in **Phoenix, Arizona**, and open to Software Engineer, Backend, Full-Stack, Platform, Cloud, and AI Engineering roles.
-- ⚡ Beyond code: Game of Thrones and House of the Dragon lore, strategy games, and the occasional Valorant ranked match.
+- 💼 **Software engineer at Morgan Stanley**, building agentic AI and full-stack systems for fixed-income operations with LangGraph, RAG, FastAPI, React, and AWS.
+- 🤖 **Agentic and generative AI:** multi-agent orchestration, retrieval-augmented generation, tool calling, guardrails, LLM evaluation, and human-in-the-loop approval workflows.
+- ⚙️ **Backend and distributed systems:** Python, Java, Node.js, REST APIs, microservices, Kafka, event-driven architecture, PostgreSQL, and Redis.
+- ☁️ **Cloud-native delivery:** AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, automated testing, and OpenTelemetry-based observability.
+- 🔬 **Published EASE 2026 researcher** on privacy disclosure across 1,000 Android applications and 86.8M runtime log entries.
+- ⚡ Off the clock: strategy games, *Game of Thrones* and *House of the Dragon* lore, and the occasional Valorant ranked match.
 
 ---
 
@@ -52,80 +49,77 @@ I'm a **Senior Full-Stack AI Engineer with 5+ years of experience** building age
   </tr>
   <tr>
     <td align="center"><strong>500K+ / day</strong><br><sub>transactions on Spring Boot and Kafka</sub></td>
-    <td align="center"><strong>86,836,964</strong><br><sub>Android log entries analyzed for EASE 2026</sub></td>
+    <td align="center"><strong>86.8M</strong><br><sub>Android log entries analyzed for EASE 2026</sub></td>
     <td align="center"><strong>14 sec → 2.1 sec</strong><br><sub>PostgreSQL report-generation improvement</sub></td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Core Technology Stack
 
-### AI, LLMs & Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=for-the-badge&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Retrieval-Augmented Generation">
-  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Bedrock">
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&amp;logo=meta&amp;logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&amp;logo=spacy&amp;logoColor=white" alt="spaCy">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini">
-</p>
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cs,cpp,c&amp;theme=dark" alt="Python, Java, TypeScript, JavaScript, C Sharp, C Plus Plus, and C">
-</p>
-
-### Backend, APIs & Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,fastapi,flask,spring,dotnet,graphql,tailwind&amp;theme=dark" alt="React, Next.js, Angular, Node.js, Express, FastAPI, Flask, Spring, .NET, GraphQL, and Tailwind CSS">
-</p>
-
-<p align="center"><code>REST APIs</code> · <code>Microservices</code> · <code>WebSockets</code> · <code>React Native</code> · <code>D3.js</code> · <code>Hibernate</code> · <code>OpenAPI</code></p>
-
-### Databases, Messaging, Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,kafka,aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,grafana,prometheus&amp;theme=dark&amp;perline=15" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase, Kafka, AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Grafana, and Prometheus">
-</p>
-
-<p align="center"><code>DynamoDB</code> · <code>Neo4j</code> · <code>RabbitMQ</code> · <code>OpenShift</code> · <code>CloudWatch</code> · <code>ECS/Fargate</code> · <code>S3</code> · <code>Lambda</code></p>
-
-### Testing, Observability & Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,selenium,vscode,idea,pycharm&amp;theme=dark" alt="Git, GitHub, Linux, Bash, Postman, Selenium, VS Code, IntelliJ IDEA, and PyCharm">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="pytest">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqubecloud&amp;logoColor=white" alt="SonarQube">
-</p>
+<table>
+  <tr>
+    <td width="26%"><strong>🤖 AI &amp; LLM Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&amp;theme=dark" height="34" alt="Python, PyTorch, TensorFlow">
+      &nbsp;<img src="https://img.shields.io/badge/LangGraph-5A29E4?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
+      <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="Retrieval-augmented generation">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Bedrock">
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&amp;logo=meta&amp;logoColor=white" alt="FAISS">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend &amp; Distributed Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,nodejs,express,kafka,redis,dotnet&amp;theme=dark" height="34" alt="Python, Java, Spring Boot, FastAPI, Node.js, Express, Kafka, Redis, .NET">
+      &nbsp;<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square" alt="REST APIs">
+      <img src="https://img.shields.io/badge/Event--Driven-0B7285?style=flat-square" alt="Event-driven architecture">
+      <img src="https://img.shields.io/badge/Microservices-2F855A?style=flat-square" alt="Microservices">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,angular,tailwind,graphql&amp;theme=dark" height="34" alt="React, TypeScript, Next.js, Angular, Tailwind CSS, GraphQL">
+      &nbsp;<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&amp;logo=d3dotjs&amp;logoColor=white" alt="D3.js">
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="WebSockets">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Data &amp; Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,gcp,docker,kubernetes,terraform&amp;theme=dark" height="34" alt="PostgreSQL, MongoDB, MySQL, AWS, GCP, Docker, Kubernetes, Terraform">
+      &nbsp;<img src="https://img.shields.io/badge/ECS%2FFargate-FF9900?style=flat-square&amp;logo=amazonecs&amp;logoColor=white" alt="AWS ECS and Fargate">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>✅ Engineering Quality</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus,selenium,git&amp;theme=dark" height="34" alt="GitHub Actions, Jenkins, Grafana, Prometheus, Selenium, Git">
+      &nbsp;<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest">
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience Snapshot
 
-### Software Engineer — Agentic AI & Full-Stack Systems · Morgan Stanley
+### Software Engineer — Agentic AI &amp; Full-Stack Systems · Morgan Stanley
 
 `August 2025 – Present` · `Phoenix, Arizona`
 
-- Architected eight event-driven FastAPI services on AWS ECS/Fargate with Redis, OAuth2/JWT, and asynchronous task processing, supporting **99.97% uptime**.
-- Built React and TypeScript dashboards with D3.js and WebSocket feeds for more than **200 fixed-income users**, reducing decision latency by **45%**.
-- Designed LangGraph multi-agent workflows and controlled tool use for trade-exception handling, reducing manual intervention by **65%**.
-- Implemented RAG over **10M+ documents**, cutting analyst lookup time from approximately **8 minutes to under 90 seconds**.
-- Added Datadog LLM traces, automated quality gates, and CI/CD pipelines that reduced deployment cycles by **50%**.
+- Designed LangGraph multi-agent workflows with controlled tool use for trade-exception handling, reducing manual intervention by **65%**.
+- Architected eight event-driven FastAPI services on AWS ECS/Fargate with Redis, OAuth2/JWT, and async task processing, supporting **99.97% uptime**.
+- Implemented RAG over **10M+ documents**, cutting analyst lookup time from roughly **8 minutes to under 90 seconds**.
+- Built React and TypeScript dashboards with D3.js and WebSocket feeds for **200+ fixed-income users**, and added Datadog LLM tracing plus CI/CD quality gates that halved deployment cycles.
 
 ### Software Engineer 2 / Associate Developer · Sage Softtech Pvt. Ltd.
 
@@ -133,14 +127,12 @@ I'm a **Senior Full-Stack AI Engineer with 5+ years of experience** building age
 
 - Built Java and Spring Boot microservices with Kafka for a platform processing **500K+ daily transactions**.
 - Optimized PostgreSQL schemas, joins, and migrations on GCP Cloud SQL, reducing report generation from **14 seconds to 2.1 seconds**.
-- Developed reusable React components, Python services, observability dashboards, and automated delivery workflows.
 
-### Graduate Research & Teaching Assistant · Rochester Institute of Technology
+### Graduate Research &amp; Teaching Assistant · Rochester Institute of Technology
 
 `August 2024 – December 2025` · `Rochester, New York`
 
-- Co-authored an EASE 2026 Research Track paper and built Python, ADB, Monkey, and Logcat automation for large-scale Android analysis.
-- Supported graduate Software Quality Assurance instruction, technical discussions, testing methodology, and research evaluation.
+- Co-authored an EASE 2026 Research Track paper and built the Python, ADB, Monkey, and Logcat automation behind its large-scale Android analysis, while supporting graduate Software Quality Assurance instruction.
 
 <details>
 <summary><strong>Additional engineering experience</strong></summary>
@@ -148,73 +140,83 @@ I'm a **Senior Full-Stack AI Engineer with 5+ years of experience** building age
 <br>
 
 - **Software Engineer Intern · Axisray Pvt. Ltd.** — Java/Spring Boot microservices and ML-powered product features.
-- **Data Science & AI/ML Intern · Moon Technolabs Pvt. Ltd.** — predictive analytics and AI-driven supply-chain workflows.
+- **Data Science &amp; AI/ML Intern · Moon Technolabs Pvt. Ltd.** — predictive analytics and AI-driven supply-chain workflows.
 
 </details>
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Flagship Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/tradeops-insight">TradeOps Copilot</a></h3>
-      <p>A review-first investigation console for deterministic synthetic trade exceptions, combining evidence-grounded RAG, a typed LangGraph workflow, RBAC, audit history, observability, and human approval gates.</p>
+      <p>Trade-exception investigation is manual, repetitive, and audit-sensitive. This review-first console pairs deterministic reconciliation with evidence-grounded RAG behind an interruptible 13-node LangGraph workflow, so every AI conclusion is citable, replayable, and gated on human approval.</p>
+      <p align="center"><sub><strong>Architecture:</strong> interruptible agent graph · server-enforced RBAC · append-only audit trail</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/sentinelflow">SentinelFlow</a></h3>
-      <p>An event-driven transaction-risk platform built with synthetic data, transactional outbox delivery, idempotent Kafka processing, deterministic rules, model scoring, and full-stack observability.</p>
+      <p>An event-driven transaction-risk platform where a payment is published exactly once through a transactional outbox, scored by a calibrated model alongside a transparent ruleset, and worked to a defensible verdict by an analyst. Built to survive redelivery, not just to demo a happy path.</p>
+      <p align="center"><sub><strong>Architecture:</strong> transactional outbox · idempotent Kafka consumers · distributed tracing</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka">
-        <img src="https://img.shields.io/badge/Active_Development-6C63FF?style=flat-square" alt="Active development">
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI scoring service">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a></h3>
-      <p>A cross-runtime enterprise integration platform with schema transformation, correlation IDs, retries, circuit breaking, idempotent upserts, and explicit partial-success handling.</p>
+      <h3 align="center"><a href="https://github.com/la3679/webops-commander">WebOps Commander</a></h3>
+      <p>A browser-native incident command center that exposes 15 schema-constrained operational tools to AI agents over WebMCP. Agents investigate telemetry and simulate mitigation freely, while anything that would change production stays blocked until a human authorizes it as a separate, auditable step.</p>
+      <p align="center"><sub><strong>Architecture:</strong> WebMCP tool registration · request/authorize/execute split · shared agent-UI state</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js 16">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/WebMCP-5A29E4?style=flat-square" alt="WebMCP">
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white" alt="Zod">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a></h3>
+      <p>Enterprise systems rarely agree on schema, uptime, or error format. This platform coordinates an Angular front end through a Node.js gateway into independently deployed FastAPI and .NET services, holding one correlation ID and one consistent error contract across every runtime boundary.</p>
+      <p align="center"><sub><strong>Architecture:</strong> retries and circuit breaking · idempotent upserts · explicit partial-success handling</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular 17">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/ResuMatch-AI">ResuMatch AI</a></h3>
-      <p>A full-stack career platform for resume analysis, ATS optimization, semantic job matching, cover-letter generation, application tracking, and secure server-side Gemini integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/VidKing-AI-Streaming">VidKing AI Streaming</a></h3>
-      <p>A cinematic full-stack streaming experience with TMDB search, Gemini recommendations, secure server-side AI calls, Firebase authentication, synchronized watchlists, and TV episode flows.</p>
+      <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
+      <p>A duel engine that actually understands the rules rather than leaving them to the players: it owns game state, builds and resolves chains, runs the damage step sub-step by sub-step, and emits semantic events. Seeded replay and per-player hidden-information views make every duel reproducible from its inputs.</p>
+      <p align="center"><sub><strong>Architecture:</strong> authoritative state machine · deterministic seeded replay · 5,509 assertions across 63 suites</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React 19">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
+        <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4">
+        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
+        <img src="https://img.shields.io/badge/Rules_Engine-2F855A?style=flat-square" alt="Rules engine">
+        <img src="https://img.shields.io/badge/Active_Development-6C63FF?style=flat-square" alt="Active development">
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/ARLabs">AR Gesture Lab</a></h3>
-      <p>An AR automation test harness that projects live 3D world coordinates into screen pixels so Appium can reliably automate tap, drag, long-press, and pinch gestures.</p>
+      <p>Automating gestures against a 3D object is hard because its screen projection changes every frame. This harness continuously projects world coordinates into screen pixels and publishes them to the DOM, giving Appium a stable target for tap, drag, long-press, and pinch on a moving AR object.</p>
+      <p align="center"><sub><strong>Architecture:</strong> per-frame coordinate bridge · device-independent gesture automation</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
@@ -223,31 +225,15 @@ I'm a **Senior Full-Stack AI Engineer with 5+ years of experience** building age
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
-      <p>A deterministic, rules-aware card-game engine with authoritative state transitions, official timing research, seeded replay, hidden-information views, and thousands of passing assertions.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4">
-        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
-        <img src="https://img.shields.io/badge/Engine_First-2EA44F?style=flat-square" alt="Engine first">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/Pok-dex">Pokédex MongoDB Platform</a></h3>
-      <p>A full-stack Pokédex, battle game, and sightings map backed by 296K+ geospatial records, MongoDB 2dsphere indexing, GridFS, Flask APIs, and a responsive React interface.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/296K%2B_Records-6C63FF?style=flat-square" alt="296K+ records">
-      </p>
-    </td>
-  </tr>
 </table>
 
 <p align="center">
-  <a href="https://loveahir.com/work"><img src="https://img.shields.io/badge/View_All_Projects_and_Case_Studies-6C63FF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="View all projects and case studies"></a>
+  <sub>These are independent portfolio projects. They run on synthetic or public data, contain no proprietary employer code or information, and are unaffiliated with any employer.</sub>
+</p>
+
+<p align="center">
+  <a href="https://loveahir.com/work"><img src="https://img.shields.io/badge/Explore_more_projects_and_case_studies-6C63FF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="Explore more projects and case studies"></a>
+  <a href="https://github.com/la3679?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="All repositories"></a>
 </p>
 
 ---
@@ -261,43 +247,27 @@ I'm a **Senior Full-Stack AI Engineer with 5+ years of experience** building age
 *An Empirical Study of Privacy Disclosure in Android Application Logs*
 
 <p>
-  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/ACM_EASE_2026-Research_Track-8A2BE2?style=for-the-badge&amp;logo=acm&amp;logoColor=white" alt="ACM EASE 2026 Research Track"></a>
-  <a href="https://arxiv.org/abs/2604.18552"><img src="https://img.shields.io/badge/arXiv-2604.18552-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv preprint"></a>
+  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/EASE_2026-Research_Track-8A2BE2?style=for-the-badge&amp;logo=acm&amp;logoColor=white" alt="EASE 2026 Research Track"></a>
+  <a href="https://arxiv.org/abs/2604.18552"><img src="https://img.shields.io/badge/arXiv-2604.18552-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv preprint 2604.18552"></a>
 </p>
 
 </div>
 
-- Analyzed **1,000 Android applications** and generated **86,836,964 runtime log entries**.
-- Found that **67.6%** of studied apps leaked sensitive information not disclosed in their privacy policies.
-- Observed full alignment between policy contents and actual logged data in only **0.4%** of applications.
-- Built automated collection and analysis tooling with **Python, ADB, Monkey, and Logcat**.
+Built Python, ADB, Monkey, and Logcat automation to instrument **1,000 Android applications** and capture **86,836,964 runtime log entries**, then measured those logs against each application's stated privacy policy. **67.6%** of applications leaked sensitive information their policies never mention, and only **0.4%** showed consistent alignment between declared policy and actual logging behavior.
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education
 
-### Rochester Institute of Technology
+**Rochester Institute of Technology** — MS, Computer Software Engineering · GPA **3.94/4.0** · August 2023 – December 2025
 
-**MS, Computer Software Engineering** · GPA: **3.94/4.0** · August 2023 – December 2025
-
-Cloud Computing · Software Architecture · Database Design · Non-Relational Data Storage · Machine Learning · Natural Language Processing
-
-### LJ Institute of Engineering and Technology / Gujarat Technological University
-
-**B.E., Electronics and Communication Engineering** · GPA: **3.81/4.0** · August 2019 – May 2023
-
-### Credentials & Continued Learning
-
-- [Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press](https://www.linkedin.com/learning/certificates/53b8f4559dd722ff7fb5e3a6438894f33da0e7cb07636ca3936ff99f150ab5bc) — LinkedIn Learning course completion, June 2025.
-- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/b7e85032290a4f063ef4905f75d28d23df2ef7d98a738df62e79268b6ce3eb14) — Learning path, June 2025.
-- [Python Essential Training](https://www.linkedin.com/learning/certificates/4c32a950aef5b51ab3e526d3daa47af2bdb69bc99c58400c61d4fb4243674cce) — LinkedIn Learning, May 2025.
-- [Learning Data Analytics: Foundations](https://www.linkedin.com/learning/certificates/b3e66a7d7344afa613aea09e7dba21533b25eb62d2d6506917ca3e6f1f6ca3f3) — LinkedIn Learning, June 2025.
+**Gujarat Technological University** — B.E., Electronics and Communication Engineering · GPA **3.81/4.0** · August 2019 – May 2023
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in building meaningful products with strong engineering teams—especially in **backend and platform engineering, distributed systems, cloud infrastructure, full-stack products, and production AI**.
+I am open to Software Engineer, Backend, Full-Stack, Platform, Cloud, and AI Engineering roles — especially teams working on distributed systems, developer platforms, and production AI.
 
 <p align="center">
   <a href="https://loveahir.com"><img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&amp;logo=aboutdotme&amp;logoColor=white" alt="Explore my portfolio"></a>
@@ -306,7 +276,5 @@ I'm interested in building meaningful products with strong engineering teams—e
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=la3679&amp;label=Profile+Views&amp;color=6C63FF&amp;style=for-the-badge" alt="GitHub profile views">
+  <img src="https://komarev.com/ghpvc/?username=la3679&amp;label=Profile+Views&amp;color=6C63FF&amp;style=flat-square" alt="GitHub profile views">
 </p>
-
-<p align="center"><sub>Built with curiosity, careful engineering, and probably too much coffee.</sub></p>
