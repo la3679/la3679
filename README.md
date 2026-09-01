@@ -1,44 +1,39 @@
 <div align="center">
 
-<h1>Hey there! I'm Love Jayesh Ahir 👋</h1>
+<h1>Love Jayesh Ahir</h1>
 
-<h3>Senior Full-Stack AI Engineer</h3>
+<h3>Software Engineer · Agentic AI · Full-Stack · Distributed Systems</h3>
+
+<p>I design and build complete systems—from AI orchestration and backend services to event-driven workflows, modern web interfaces, observability, and delivery.</p>
 
 <a href="https://loveahir.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Agentic+AI+%E2%80%A2+Generative+AI+%E2%80%A2+LLMs;LangGraph+%E2%80%A2+LangChain+%E2%80%A2+RAG+%E2%80%A2+AWS+Bedrock;FastAPI+%E2%80%A2+React+%E2%80%A2+Cloud-Native+Systems;EASE+2026+Published+Researcher" alt="Typing animation: Agentic AI, cloud-native systems, and published research">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1200&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Human-in-the-Loop+Systems;Distributed+Systems+%E2%80%A2+APIs+%E2%80%A2+Event-Driven+Architecture;FastAPI+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Cloud" alt="Agentic AI, distributed systems, and full-stack engineering">
 </a>
 
 <p>
   <a href="https://loveahir.com"><img src="https://img.shields.io/badge/Portfolio-loveahir.com-111827?style=for-the-badge&amp;logo=aboutdotme&amp;logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/love-ahir/"><img src="https://img.shields.io/badge/LinkedIn-Love_Ahir-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/la3679?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub projects"></a>
-  <a href="mailto:lahir1269@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
   <a href="https://loveahir.com/resume.pdf"><img src="https://img.shields.io/badge/Résumé-View-4B5563?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé"></a>
+  <a href="mailto:lahir1269@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Phoenix%2C_AZ-United_States-6C63FF?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Phoenix, Arizona">
-  <img src="https://img.shields.io/badge/Experience-5%2B_Years-00A98F?style=flat-square" alt="5+ years of experience">
   <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/EASE_2026-Published_Researcher-8A2BE2?style=flat-square&amp;logo=acm&amp;logoColor=white" alt="EASE 2026 Published Researcher"></a>
-  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_Roles-2EA44F?style=flat-square" alt="Open to software engineering roles">
+  <img src="https://img.shields.io/badge/Open_to-Engineering_Roles-2EA44F?style=flat-square" alt="Open to engineering roles">
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm a **Senior Full-Stack AI Engineer with 5+ years of experience** building agentic AI, generative AI, backend platforms, and cloud-native applications. I work across the full product lifecycle—from distributed services, APIs, databases, and event pipelines to React interfaces, AI evaluation, observability, security, and production delivery.
-
-- 💼 At **Morgan Stanley**, I build agentic AI and full-stack systems for fixed-income operations using LangGraph, RAG, FastAPI, React, TypeScript, and AWS.
-- 🤖 I specialize in **multi-agent orchestration, retrieval-augmented generation, LLM evaluation, guardrails, tool calling, and human-in-the-loop workflows**.
-- ⚙️ My backend work spans **Python, Java, Node.js, C#, REST APIs, microservices, distributed systems, Kafka, PostgreSQL, and Redis**.
-- ☁️ I ship cloud-native systems with **AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, and production observability**.
-- 🎓 I earned an **MS, Computer Software Engineering from RIT** with a **3.94/4.0 GPA** in December 2025.
-- 🔬 I am a published **EASE 2026 researcher**, studying privacy disclosure across 1,000 Android applications and 86M+ runtime log entries.
-- 📍 Based in **Phoenix, Arizona**, and open to Software Engineer, Backend, Full-Stack, Platform, Cloud, and AI Engineering roles.
-- ⚡ Beyond code: Game of Thrones and House of the Dragon lore, strategy games, and the occasional Valorant ranked match.
+- Build **agentic AI systems** with LangGraph, RAG, evaluations, guardrails, tool calling, and human approval paths.
+- Design **backend and distributed systems** with Python, Java, APIs, Kafka, PostgreSQL, Redis, and failure-aware workflows.
+- Deliver **full-stack products** with React, TypeScript, Next.js, Angular, and observable backend services.
+- Ship on **AWS and GCP** with containers, Kubernetes, infrastructure as code, CI/CD, testing, and production telemetry.
+- Published **EASE 2026 researcher**; MS in Software Engineering from RIT, GPA 3.94/4.0.
 
 ---
 
