@@ -56,13 +56,37 @@
 
 ## 🧰 Core Technology Stack
 
-| Focus | Technologies |
-|---|---|
-| **AI & LLM Systems** | Python · LangGraph · LangChain · RAG · OpenAI · AWS Bedrock · FAISS |
-| **Backend & Distributed Systems** | FastAPI · Java · Spring Boot · Node.js · .NET · Kafka · REST APIs · Redis |
-| **Frontend** | React · TypeScript · Next.js · Angular |
-| **Data & Cloud** | PostgreSQL · MongoDB · AWS · GCP · Docker · Kubernetes · Terraform |
-| **Engineering Quality** | GitHub Actions · pytest · JUnit · Playwright · OpenTelemetry · Datadog · Grafana · Prometheus |
+<div align="center">
+
+<p><strong>AI & LLM Systems</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=for-the-badge" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Retrieval-Augmented Generation">
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Bedrock">
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&amp;logo=meta&amp;logoColor=white" alt="FAISS">
+</p>
+
+<p><strong>Backend, Distributed Systems & Frontend</strong></p>
+<p><img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,angular,nodejs,fastapi,spring,dotnet&amp;theme=dark" alt="Python, Java, TypeScript, React, Next.js, Angular, Node.js, FastAPI, Spring Boot, and .NET"></p>
+<p><sub>REST APIs · Microservices · Event-Driven Architecture · Kafka · Redis</sub></p>
+
+<p><strong>Data, Cloud & Delivery</strong></p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,aws,gcp,docker,kubernetes,terraform,githubactions&amp;theme=dark" alt="PostgreSQL, MongoDB, Redis, Kafka, AWS, GCP, Docker, Kubernetes, Terraform, and GitHub Actions"></p>
+
+<p><strong>Testing & Observability</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus">
+</p>
+
+</div>
 
 ---
 
