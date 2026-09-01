@@ -90,104 +90,24 @@
 - Co-authored an EASE 2026 Research Track paper, built Python/ADB/Logcat automation for large-scale Android analysis, and supported graduate software-quality instruction.
 
 ---
-## 🚀 Featured Engineering Projects
+## 🚀 Flagship Engineering Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/tradeops-insight">TradeOps Copilot</a></h3>
-      <p>A review-first investigation console for deterministic synthetic trade exceptions, combining evidence-grounded RAG, a typed LangGraph workflow, RBAC, audit history, observability, and human approval gates.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/sentinelflow">SentinelFlow</a></h3>
-      <p>An event-driven transaction-risk platform built with synthetic data, transactional outbox delivery, idempotent Kafka processing, deterministic rules, model scoring, and full-stack observability.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka">
-        <img src="https://img.shields.io/badge/Active_Development-6C63FF?style=flat-square" alt="Active development">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a></h3>
-      <p>A cross-runtime enterprise integration platform with schema transformation, correlation IDs, retries, circuit breaking, idempotent upserts, and explicit partial-success handling.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/ResuMatch-AI">ResuMatch AI</a></h3>
-      <p>A full-stack career platform for resume analysis, ATS optimization, semantic job matching, cover-letter generation, application tracking, and secure server-side Gemini integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/VidKing-AI-Streaming">VidKing AI Streaming</a></h3>
-      <p>A cinematic full-stack streaming experience with TMDB search, Gemini recommendations, secure server-side AI calls, Firebase authentication, synchronized watchlists, and TV episode flows.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React 19">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/ARLabs">AR Gesture Lab</a></h3>
-      <p>An AR automation test harness that projects live 3D world coordinates into screen pixels so Appium can reliably automate tap, drag, long-press, and pinch gestures.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
-        <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&amp;logo=appium&amp;logoColor=white" alt="Appium">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
-      <p>A deterministic, rules-aware card-game engine with authoritative state transitions, official timing research, seeded replay, hidden-information views, and thousands of passing assertions.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4">
-        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
-        <img src="https://img.shields.io/badge/Engine_First-2EA44F?style=flat-square" alt="Engine first">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/Pok-dex">Pokédex MongoDB Platform</a></h3>
-      <p>A full-stack Pokédex, battle game, and sightings map backed by 296K+ geospatial records, MongoDB 2dsphere indexing, GridFS, Flask APIs, and a responsive React interface.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/296K%2B_Records-6C63FF?style=flat-square" alt="296K+ records">
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | What it demonstrates | Core stack |
+|---|---|---|
+| **[TradeOps Copilot](https://github.com/la3679/tradeops-insight)** | Independent, synthetic fixed-income exception investigation grounded in retrieved evidence. Typed LangGraph orchestration, human review gates, RBAC, audit history, evaluations, and OpenTelemetry keep AI actions inspectable. | Python · FastAPI · LangGraph · RAG · React · TypeScript |
+| **[SentinelFlow](https://github.com/la3679/sentinelflow)** | End-to-end transaction-risk and fraud-operations demo using synthetic data. Transactional outbox delivery, idempotent Kafka consumers, dead-letter handling, versioned contracts, model/rule scoring, and distributed tracing exercise real failure paths. | Java · Spring Boot · Kafka · FastAPI · PostgreSQL · React |
+| **[WebOps Commander](https://github.com/la3679/webops-commander)** | Browser-native incident-response simulator that registers 15 WebMCP tools with strict schemas. Read-only investigation is separated from rollback requests, visible human authorization, guarded execution, recovery, and audit events. | Next.js · React · TypeScript · WebMCP · Zod · Playwright |
+| **[Integration Operations Hub](https://github.com/la3679/integration-operations-hub)** | Cross-runtime integration workflow for synchronizing employee data across services. Correlation IDs, schema transformation, retries, circuit breaking, idempotent upserts, and partial-success reporting make integration behavior explicit. | Angular · Node.js · FastAPI · .NET · PostgreSQL |
+| **[AR Gesture Lab](https://github.com/la3679/ARLabs)** | AR automation harness that converts live 3D world coordinates into stable screen coordinates so Appium can drive tap, drag, long-press, and pinch gestures. | React · Three.js · React Three Fiber · Appium · Python |
+| **[Duel Arena](https://github.com/la3679/yu-gi-oh-duel-arena-godot)** | Deterministic, engine-first card-game architecture with authoritative state transitions, rules-aware chains and timing, hidden-information views, and seeded replay. The current engine implements 49 of 77 card effects and passes **5,509 assertions across 63 suites** in CI. | Godot 4 · GDScript · Rules engine · Headless CI |
 
 <p align="center">
-  <a href="https://loveahir.com/work"><img src="https://img.shields.io/badge/View_All_Projects_and_Case_Studies-6C63FF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="View all projects and case studies"></a>
+  <a href="https://loveahir.com/work"><strong>Explore more projects and case studies →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/la3679?tab=repositories"><strong>Browse all repositories →</strong></a>
 </p>
 
 ---
-
 ## 🔬 Published Research
 
 <div align="center">
