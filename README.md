@@ -56,73 +56,72 @@
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Core Technology Stack
 
-### AI, LLMs & Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/LangGraph-5A29E4?style=for-the-badge&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Retrieval-Augmented Generation">
-  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Bedrock">
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&amp;logo=meta&amp;logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&amp;logo=spacy&amp;logoColor=white" alt="spaCy">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini">
-</p>
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cs,cpp,c&amp;theme=dark" alt="Python, Java, TypeScript, JavaScript, C Sharp, C Plus Plus, and C">
-</p>
-
-### Backend, APIs & Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,fastapi,flask,spring,dotnet,graphql,tailwind&amp;theme=dark" alt="React, Next.js, Angular, Node.js, Express, FastAPI, Flask, Spring, .NET, GraphQL, and Tailwind CSS">
-</p>
-
-<p align="center"><code>REST APIs</code> · <code>Microservices</code> · <code>WebSockets</code> · <code>React Native</code> · <code>D3.js</code> · <code>Hibernate</code> · <code>OpenAPI</code></p>
-
-### Databases, Messaging, Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,kafka,aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,grafana,prometheus&amp;theme=dark&amp;perline=15" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase, Kafka, AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Grafana, and Prometheus">
-</p>
-
-<p align="center"><code>DynamoDB</code> · <code>Neo4j</code> · <code>RabbitMQ</code> · <code>OpenShift</code> · <code>CloudWatch</code> · <code>ECS/Fargate</code> · <code>S3</code> · <code>Lambda</code></p>
-
-### Testing, Observability & Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,selenium,vscode,idea,pycharm&amp;theme=dark" alt="Git, GitHub, Linux, Bash, Postman, Selenium, VS Code, IntelliJ IDEA, and PyCharm">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="pytest">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqubecloud&amp;logoColor=white" alt="SonarQube">
-</p>
+<table>
+  <tr>
+    <td width="26%"><strong>🤖 AI &amp; LLM Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&amp;theme=dark" height="34" alt="Python, PyTorch, TensorFlow">
+      &nbsp;<img src="https://img.shields.io/badge/LangGraph-5A29E4?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
+      <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="Retrieval-augmented generation">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Bedrock">
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&amp;logo=meta&amp;logoColor=white" alt="FAISS">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend &amp; Distributed Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,nodejs,express,kafka,redis,dotnet&amp;theme=dark" height="34" alt="Python, Java, Spring Boot, FastAPI, Node.js, Express, Kafka, Redis, .NET">
+      &nbsp;<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square" alt="REST APIs">
+      <img src="https://img.shields.io/badge/Event--Driven-0B7285?style=flat-square" alt="Event-driven architecture">
+      <img src="https://img.shields.io/badge/Microservices-2F855A?style=flat-square" alt="Microservices">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,angular,tailwind,graphql&amp;theme=dark" height="34" alt="React, TypeScript, Next.js, Angular, Tailwind CSS, GraphQL">
+      &nbsp;<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&amp;logo=d3dotjs&amp;logoColor=white" alt="D3.js">
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="WebSockets">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Data &amp; Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,gcp,docker,kubernetes,terraform&amp;theme=dark" height="34" alt="PostgreSQL, MongoDB, MySQL, AWS, GCP, Docker, Kubernetes, Terraform">
+      &nbsp;<img src="https://img.shields.io/badge/ECS%2FFargate-FF9900?style=flat-square&amp;logo=amazonecs&amp;logoColor=white" alt="AWS ECS and Fargate">
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>✅ Engineering Quality</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus,selenium,git&amp;theme=dark" height="34" alt="GitHub Actions, Jenkins, Grafana, Prometheus, Selenium, Git">
+      &nbsp;<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&amp;logo=datadog&amp;logoColor=white" alt="Datadog">
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest">
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&amp;logo=sonarqubecloud&amp;logoColor=white" alt="SonarQube">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience Snapshot
 
-### Software Engineer — Agentic AI & Full-Stack Systems · Morgan Stanley
+### Software Engineer — Agentic AI &amp; Full-Stack Systems · Morgan Stanley
 
 `August 2025 – Present` · `Phoenix, Arizona`
 
-- Architected eight event-driven FastAPI services on AWS ECS/Fargate with Redis, OAuth2/JWT, and asynchronous task processing, supporting **99.97% uptime**.
-- Built React and TypeScript dashboards with D3.js and WebSocket feeds for more than **200 fixed-income users**, reducing decision latency by **45%**.
-- Designed LangGraph multi-agent workflows and controlled tool use for trade-exception handling, reducing manual intervention by **65%**.
-- Implemented RAG over **10M+ documents**, cutting analyst lookup time from approximately **8 minutes to under 90 seconds**.
-- Added Datadog LLM traces, automated quality gates, and CI/CD pipelines that reduced deployment cycles by **50%**.
+- Designed LangGraph multi-agent workflows with controlled tool use for trade-exception handling, reducing manual intervention by **65%**.
+- Architected eight event-driven FastAPI services on AWS ECS/Fargate with Redis, OAuth2/JWT, and async task processing, supporting **99.97% uptime**.
+- Implemented RAG over **10M+ documents**, cutting analyst lookup time from roughly **8 minutes to under 90 seconds**.
+- Built React and TypeScript dashboards with D3.js and WebSocket feeds for **200+ fixed-income users**, and added Datadog LLM tracing plus CI/CD quality gates that halved deployment cycles.
 
 ### Software Engineer 2 / Associate Developer · Sage Softtech Pvt. Ltd.
 
@@ -130,14 +129,12 @@
 
 - Built Java and Spring Boot microservices with Kafka for a platform processing **500K+ daily transactions**.
 - Optimized PostgreSQL schemas, joins, and migrations on GCP Cloud SQL, reducing report generation from **14 seconds to 2.1 seconds**.
-- Developed reusable React components, Python services, observability dashboards, and automated delivery workflows.
 
-### Graduate Research & Teaching Assistant · Rochester Institute of Technology
+### Graduate Research &amp; Teaching Assistant · Rochester Institute of Technology
 
 `August 2024 – December 2025` · `Rochester, New York`
 
-- Co-authored an EASE 2026 Research Track paper and built Python, ADB, Monkey, and Logcat automation for large-scale Android analysis.
-- Supported graduate Software Quality Assurance instruction, technical discussions, testing methodology, and research evaluation.
+- Co-authored an EASE 2026 Research Track paper and built the Python, ADB, Monkey, and Logcat automation behind its large-scale Android analysis, while supporting graduate Software Quality Assurance instruction.
 
 <details>
 <summary><strong>Additional engineering experience</strong></summary>
