@@ -124,9 +124,21 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/sentinelflow">SentinelFlow</a></h3>
+      <p>An event-driven transaction-risk platform designed around the failures real distributed systems have to survive: atomic event publication, redelivery, concurrent updates, degraded dependencies, auditability, and operator recovery.</p>
+      <p align="center"><sub><strong>Architecture:</strong> transactional outbox · idempotent Kafka consumers · Spring Boot + FastAPI · PostgreSQL · distributed tracing</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/tradeops-insight">TradeOps Copilot</a></h3>
-      <p>Trade-exception investigation is manual, repetitive, and audit-sensitive. This review-first console pairs deterministic reconciliation with evidence-grounded RAG behind an interruptible 13-node LangGraph workflow, so every AI conclusion is citable, replayable, and gated on human approval.</p>
-      <p align="center"><sub><strong>Architecture:</strong> interruptible agent graph · server-enforced RBAC · append-only audit trail</sub></p>
+      <p>A review-first AI investigation console for synthetic fixed-income trade exceptions. Deterministic reconciliation and evidence-grounded RAG sit behind an interruptible 13-node LangGraph workflow so AI conclusions remain citable, replayable, observable, and human-controlled.</p>
+      <p align="center"><sub><strong>Architecture:</strong> LangGraph orchestration · RAG + citations · server-enforced RBAC · review interrupts · append-only audit</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
@@ -135,24 +147,38 @@
         <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry">
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/sentinelflow">SentinelFlow</a></h3>
-      <p>An event-driven transaction-risk platform where a payment is published exactly once through a transactional outbox, scored by a calibrated model alongside a transparent ruleset, and worked to a defensible verdict by an analyst. Built to survive redelivery, not just to demo a happy path.</p>
-      <p align="center"><sub><strong>Architecture:</strong> transactional outbox · idempotent Kafka consumers · distributed tracing</sub></p>
+      <h3 align="center"><a href="https://github.com/la3679/navisight">NaviSight</a></h3>
+      <p>A maritime intelligence platform built over 5.9M historical AIS broadcasts from 16K+ vessels. It combines MongoDB geospatial analytics, replayable operations maps, a 3D vessel inspector, and an evidence-producing AI copilot over real public data.</p>
+      <p align="center"><sub><strong>Architecture:</strong> streaming AIS ingestion · MongoDB 2dsphere + aggregation · MapLibre/deck.gl · bounded tool-calling copilot</sub></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI scoring service">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js 16">
+        <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square" alt="MapLibre">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/la3679/legacyflow-computer-use-automation">LegacyFlow</a></h3>
+      <p>An LLM-guided browser-automation system that discovers a workflow once, compiles verified steps into a typed capability, and then replays it deterministically without an LLM. Policy checks, checkpoints, redacted evidence, and same-session operator handoff keep automation bounded and reviewable.</p>
+      <p align="center"><sub><strong>Architecture:</strong> OpenAI discovery planner · deterministic replay · guarded Playwright surface · human handoff · policy enforcement</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/webops-commander">WebOps Commander</a></h3>
-      <p>A browser-native incident command center that exposes 15 schema-constrained operational tools to AI agents over WebMCP. Agents investigate telemetry and simulate mitigation freely, while anything that would change production stays blocked until a human authorizes it as a separate, auditable step.</p>
-      <p align="center"><sub><strong>Architecture:</strong> WebMCP tool registration · request/authorize/execute split · shared agent-UI state</sub></p>
+      <p>A browser-native incident command center exposing 15 schema-constrained operational tools to AI agents through WebMCP. Agents can investigate and simulate freely, while consequential actions require a separate human authorization and execution step.</p>
+      <p align="center"><sub><strong>Architecture:</strong> WebMCP tool registration · request/authorize/execute split · shared agent-UI state · auditable recovery</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js 16">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
@@ -162,23 +188,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a></h3>
-      <p>Enterprise systems rarely agree on schema, uptime, or error format. This platform coordinates an Angular front end through a Node.js gateway into independently deployed FastAPI and .NET services, holding one correlation ID and one consistent error contract across every runtime boundary.</p>
-      <p align="center"><sub><strong>Architecture:</strong> retries and circuit breaking · idempotent upserts · explicit partial-success handling</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular 17">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
-      <p>A duel engine that actually understands the rules rather than leaving them to the players: it owns game state, builds and resolves chains, runs the damage step sub-step by sub-step, and emits semantic events. Seeded replay and per-player hidden-information views make every duel reproducible from its inputs.</p>
-      <p align="center"><sub><strong>Architecture:</strong> authoritative state machine · deterministic seeded replay · 5,509 assertions across 63 suites</sub></p>
+      <p>A deterministic Yu-Gi-Oh! rules engine that owns legality, game state, chain resolution, Damage Step timing, hidden information, control changes, and replay rather than leaving rules enforcement to a UI. Its bounded 77-card pool turns official rulings into executable behavior one tested subsystem at a time.</p>
+      <p align="center"><sub><strong>Current:</strong> 74/77 cards implemented and tested · 9,459 assertions passing across 92 suites · deterministic seeded replay</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4">
         <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
@@ -186,19 +198,12 @@
         <img src="https://img.shields.io/badge/Active_Development-6C63FF?style=flat-square" alt="Active development">
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/ARLabs">AR Gesture Lab</a></h3>
-      <p>Automating gestures against a 3D object is hard because its screen projection changes every frame. This harness continuously projects world coordinates into screen pixels and publishes them to the DOM, giving Appium a stable target for tap, drag, long-press, and pinch on a moving AR object.</p>
-      <p align="center"><sub><strong>Architecture:</strong> per-frame coordinate bridge · device-independent gesture automation</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
-        <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&amp;logo=appium&amp;logoColor=white" alt="Appium">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-      </p>
-    </td>
   </tr>
 </table>
+
+<p align="center">
+  <strong>Enterprise integration depth:</strong> <a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a> — Angular 17, Node.js/Express, FastAPI, .NET 8, PostgreSQL, retries, circuit breaking, idempotent upserts, and partial-success handling.
+</p>
 
 <p align="center">
   <sub>These are independent portfolio projects. They run on synthetic or public data, contain no proprietary employer code or information, and are unaffiliated with any employer.</sub>
