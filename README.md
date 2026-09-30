@@ -44,17 +44,44 @@ Software Engineer with **3+ years of experience** building backend services, ful
 
 ## 🛠️ Technical Skills
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Java, Python, TypeScript, JavaScript, SQL |
-| Backend & APIs | Spring Boot, Hibernate, FastAPI, Node.js, REST APIs, Microservices, WebSockets, OAuth 2.0, JWT |
-| Frontend | React, Angular, Redux Toolkit, D3.js |
-| Databases | PostgreSQL, MySQL, Redis, Query Optimization, Schema Design |
-| Data Engineering | PySpark, Apache Spark, Delta Lake, Unity Catalog, Incremental Data Pipelines |
-| AI & GenAI | Databricks Agent Framework, LLM Applications, Agentic AI, Tool Calling, MLflow Tracing |
-| Distributed Systems | Kafka, Event-Driven Architecture, Transactional Outbox, Idempotency |
-| Cloud & DevOps | AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, Bazel, Git, CI/CD |
-| Testing & Observability | pytest, JUnit, Jest, Integration Testing, OpenTelemetry, Datadog, SonarQube, Structured Logging |
+<table>
+  <tr>
+    <td align="center" width="220"><img src="https://skillicons.dev/icons?i=java,python,ts,js&amp;theme=dark" height="36" alt="Java, Python, TypeScript, JavaScript"></td>
+    <td><strong>Languages</strong><br><sub>Java · Python · TypeScript · JavaScript · SQL</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,hibernate&amp;theme=dark" height="36" alt="Spring Boot, FastAPI, Node.js, Hibernate"></td>
+    <td><strong>Backend &amp; APIs</strong><br><sub>Spring Boot · Hibernate · FastAPI · Node.js · REST APIs · Microservices · WebSockets · OAuth 2.0 · JWT</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,angular,redux,d3&amp;theme=dark" height="36" alt="React, Angular, Redux, D3.js"></td>
+    <td><strong>Frontend</strong><br><sub>React · Angular · Redux Toolkit · D3.js</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&amp;theme=dark" height="36" alt="PostgreSQL, MySQL, Redis"></td>
+    <td><strong>Databases</strong><br><sub>PostgreSQL · MySQL · Redis · Query Optimization · Schema Design</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark"><br><img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&amp;logo=delta&amp;logoColor=white" alt="Delta Lake"></td>
+    <td><strong>Data Engineering</strong><br><sub>PySpark · Apache Spark · Delta Lake · Unity Catalog · Incremental Data Pipelines</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&amp;logo=databricks&amp;logoColor=white" alt="Databricks"><br><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&amp;logo=mlflow&amp;logoColor=white" alt="MLflow"></td>
+    <td><strong>AI &amp; GenAI</strong><br><sub>Databricks Agent Framework · LLM Applications · Agentic AI · Tool Calling · MLflow Tracing</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" height="36" alt="Apache Kafka"></td>
+    <td><strong>Distributed Systems</strong><br><sub>Kafka · Event-Driven Architecture · Transactional Outbox · Idempotency</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,jenkins&amp;theme=dark" height="36" alt="AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins"></td>
+    <td><strong>Cloud &amp; DevOps</strong><br><sub>AWS · GCP · Docker · Kubernetes · GitHub Actions · Jenkins · Bazel · Git · CI/CD</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest"><br><img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&amp;logo=datadog&amp;logoColor=white" alt="Datadog"></td>
+    <td><strong>Testing &amp; Observability</strong><br><sub>pytest · JUnit · Jest · Integration Testing · OpenTelemetry · Datadog · SonarQube · Structured Logging</sub></td>
+  </tr>
+</table>
 
 Additional project technologies include LangGraph, FAISS, MongoDB, Next.js, Playwright, WebMCP, and Godot; see the project repositories below.
 
