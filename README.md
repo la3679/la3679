@@ -30,15 +30,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **3+ years of experience** building backend services, full-stack applications, and distributed data pipelines for enterprise SaaS and data platform products.
-
-- 💼 **Software Engineer, AI Platform at Databricks**, working on governed agentic workflows, Python services, Java SDK integrations, and full-stack platform features.
-- ⚙️ **Backend and full-stack engineering:** Python, Java, FastAPI, Spring Boot, React, TypeScript, REST APIs, and multi-tenant SaaS systems.
-- 🗄️ **Data engineering:** PySpark, SQL, Apache Spark, Delta Lake, Unity Catalog, and PostgreSQL performance optimization.
-- 🤖 **Applied AI:** Databricks Agent Framework, tool calling, agent evaluation, and MLflow Tracing; independent projects also explore LangGraph, RAG, and human review.
-- ✅ **Production delivery:** automated testing, CI/CD, observability, and reliable distributed-system design.
-- 🔬 **EASE 2026 researcher** studying privacy disclosures and runtime logging across 1,000 Android applications.
-
+Software Engineer with **3+ years of experience** building backend services, full-stack applications, and data pipelines. Currently on the **AI Platform team at Databricks**, working on governed agentic AI and data platform engineering; previously built enterprise SaaS at **Neon IT Systems**. M.S. from **RIT** and co-author of an **EASE 2026** privacy study.
 
 ---
 
@@ -46,45 +38,26 @@ Software Engineer with **3+ years of experience** building backend services, ful
 
 <table>
   <tr>
-    <td align="center" width="220"><img src="https://skillicons.dev/icons?i=java,python,ts,js&amp;theme=dark" height="36" alt="Java, Python, TypeScript, JavaScript"></td>
-    <td><strong>Languages</strong><br><sub>Java · Python · TypeScript · JavaScript · SQL</sub></td>
+    <td align="center" width="220"><img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,kafka&amp;theme=dark" height="36" alt="Java, Python, Spring Boot, FastAPI, Kafka"></td>
+    <td><strong>Backend</strong><br><sub>Java · Python · Spring Boot · FastAPI · Node.js · REST APIs · Kafka · Idempotency</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,hibernate&amp;theme=dark" height="36" alt="Spring Boot, FastAPI, Node.js, Hibernate"></td>
-    <td><strong>Backend &amp; APIs</strong><br><sub>Spring Boot · Hibernate · FastAPI · Node.js · REST APIs · Microservices · WebSockets · OAuth 2.0 · JWT</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,angular,redux,d3&amp;theme=dark" height="36" alt="React, Angular, Redux, D3.js"></td>
-    <td><strong>Frontend</strong><br><sub>React · Angular · Redux Toolkit · D3.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,js,angular,redux&amp;theme=dark" height="36" alt="React, TypeScript, JavaScript, Angular, Redux"></td>
+    <td><strong>Frontend</strong><br><sub>React · TypeScript · JavaScript · Angular · Redux Toolkit · D3.js</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&amp;theme=dark" height="36" alt="PostgreSQL, MySQL, Redis"></td>
-    <td><strong>Databases</strong><br><sub>PostgreSQL · MySQL · Redis · Query Optimization · Schema Design</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark"><br><img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&amp;logo=delta&amp;logoColor=white" alt="Delta Lake"></td>
-    <td><strong>Data Engineering</strong><br><sub>PySpark · Apache Spark · Delta Lake · Unity Catalog · Incremental Data Pipelines</sub></td>
+    <td><strong>Data</strong><br><sub>SQL · PostgreSQL · MySQL · Redis · PySpark · Apache Spark · Delta Lake · Unity Catalog</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&amp;logo=databricks&amp;logoColor=white" alt="Databricks"><br><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&amp;logo=mlflow&amp;logoColor=white" alt="MLflow"></td>
-    <td><strong>AI &amp; GenAI</strong><br><sub>Databricks Agent Framework · LLM Applications · Agentic AI · Tool Calling · MLflow Tracing</sub></td>
+    <td><strong>AI</strong><br><sub>Databricks Agent Framework · Tool Calling · MLflow Tracing · LangGraph · RAG · FAISS</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" height="36" alt="Apache Kafka"></td>
-    <td><strong>Distributed Systems</strong><br><sub>Kafka · Event-Driven Architecture · Transactional Outbox · Idempotency</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,jenkins&amp;theme=dark" height="36" alt="AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins"></td>
-    <td><strong>Cloud &amp; DevOps</strong><br><sub>AWS · GCP · Docker · Kubernetes · GitHub Actions · Jenkins · Bazel · Git · CI/CD</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest"><br><img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&amp;logo=datadog&amp;logoColor=white" alt="Datadog"></td>
-    <td><strong>Testing &amp; Observability</strong><br><sub>pytest · JUnit · Jest · Integration Testing · OpenTelemetry · Datadog · SonarQube · Structured Logging</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions&amp;theme=dark" height="36" alt="AWS, GCP, Docker, Kubernetes, GitHub Actions"></td>
+    <td><strong>Cloud &amp; Testing</strong><br><sub>AWS · GCP · Docker · Kubernetes · CI/CD · pytest · JUnit · OpenTelemetry · Datadog</sub></td>
   </tr>
 </table>
-
-Additional project technologies include LangGraph, FAISS, MongoDB, Next.js, Playwright, WebMCP, and Godot; see the project repositories below.
-
 
 ---
 
@@ -166,35 +139,15 @@ Mentored graduate students in software testing and led research-paper discussion
 
 </details>
 
-
 ---
 
-## 📈 Engineering Impact
-
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>10M+ records / run</strong><br><sub>Spark and Delta Lake pipelines</sub></td>
-    <td align="center" width="33%"><strong>2.5 hours → 40 minutes</strong><br><sub>data pipeline runtime</sub></td>
-    <td align="center" width="33%"><strong>1,000+ agent traces</strong><br><sub>evaluated before automating 4 tasks per sprint</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>18% fewer failures</strong><br><sub>backend service calls</sub></td>
-    <td align="center"><strong>2.1 seconds → 480 ms</strong><br><sub>PostgreSQL-backed service p95 latency</sub></td>
-    <td align="center"><strong>24% fewer timeouts</strong><br><sub>after moving long-running work to background jobs</sub></td>
-  </tr>
-</table>
-
-
----
-
-## 🚀 Flagship Engineering Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/tradeops-insight">TradeOps Copilot</a></h3>
-      <p>A review-first AI investigation console for synthetic fixed-income trade exceptions. Deterministic reconciliation and evidence-grounded RAG sit behind an interruptible 13-node LangGraph workflow so AI conclusions remain citable, replayable, observable, and human-controlled.</p>
-      <p align="center"><sub><strong>Architecture:</strong> LangGraph orchestration · RAG + citations · server-enforced RBAC · review interrupts · append-only audit</sub></p>
+      <p>AI investigation console for synthetic trade exceptions, with a 13-node LangGraph workflow, evidence-grounded RAG, mandatory human review, and an audit trail.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
@@ -205,8 +158,7 @@ Mentored graduate students in software testing and led research-paper discussion
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/sentinelflow">SentinelFlow</a></h3>
-      <p>An event-driven transaction-risk platform designed around the failures real distributed systems have to survive: atomic event publication, redelivery, concurrent updates, degraded dependencies, auditability, and operator recovery.</p>
-      <p align="center"><sub><strong>Architecture:</strong> transactional outbox · idempotent Kafka consumers · Spring Boot + FastAPI · PostgreSQL · distributed tracing</sub></p>
+      <p>Transaction-risk platform on synthetic data, with a transactional outbox, idempotent Kafka consumers, explainable scoring, and distributed tracing.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
@@ -219,8 +171,7 @@ Mentored graduate students in software testing and led research-paper discussion
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/navisight">NaviSight</a></h3>
-      <p>A maritime intelligence platform built over 5.9M historical AIS broadcasts from 16K+ vessels. It combines MongoDB geospatial analytics, replayable operations maps, a 3D vessel inspector, and an evidence-producing AI copilot over real public data.</p>
-      <p align="center"><sub><strong>Architecture:</strong> streaming AIS ingestion · MongoDB 2dsphere + aggregation · MapLibre/deck.gl · bounded tool-calling copilot</sub></p>
+      <p>Maritime intelligence over 5.9M historical vessel observations, combining geospatial analytics, map replay, a 3D inspector, and an AI copilot.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
@@ -231,8 +182,7 @@ Mentored graduate students in software testing and led research-paper discussion
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/la3679/legacyflow-computer-use-automation">LegacyFlow</a></h3>
-      <p>An LLM-guided browser-automation system that discovers a workflow once, compiles verified steps into a typed capability, and then replays it deterministically without an LLM. Policy checks, checkpoints, redacted evidence, and same-session operator handoff keep automation bounded and reviewable.</p>
-      <p align="center"><sub><strong>Architecture:</strong> OpenAI discovery planner · deterministic replay · guarded Playwright surface · human handoff · policy enforcement</sub></p>
+      <p>Browser automation that discovers workflows with an LLM, then replays verified steps deterministically with policy checks and human handoff.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
@@ -242,43 +192,21 @@ Mentored graduate students in software testing and led research-paper discussion
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/webops-commander">WebOps Commander</a></h3>
-      <p>A browser-native incident command center exposing 15 schema-constrained operational tools to AI agents through WebMCP. Agents can investigate and simulate freely, while consequential actions require a separate human authorization and execution step.</p>
-      <p align="center"><sub><strong>Architecture:</strong> WebMCP tool registration · request/authorize/execute split · shared agent-UI state · auditable recovery</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js 16">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/WebMCP-5A29E4?style=flat-square" alt="WebMCP">
-        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white" alt="Zod">
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/la3679/yu-gi-oh-duel-arena-godot">Duel Arena</a></h3>
-      <p>A deterministic Yu-Gi-Oh! rules engine that owns legality, game state, chain resolution, Damage Step timing, hidden information, control changes, and replay rather than leaving rules enforcement to a UI. The headless engine is in active development, with card coverage growing and a playable UI planned.</p>
-      <p align="center"><sub><strong>Focus:</strong> deterministic action validation · reusable card mechanics · regression tests · seeded replay</sub></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="Godot 4">
-        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
-        <img src="https://img.shields.io/badge/Rules_Engine-2F855A?style=flat-square" alt="Rules engine">
-        <img src="https://img.shields.io/badge/Active_Development-6C63FF?style=flat-square" alt="Active development">
-      </p>
-    </td>
-  </tr>
 </table>
 
-<p align="center">
-  <strong>Enterprise integration depth:</strong> <a href="https://github.com/la3679/integration-operations-hub">Integration Operations Hub</a> — Angular 17, Node.js/Express, FastAPI, .NET 8, PostgreSQL, retries, circuit breaking, idempotent upserts, and partial-success handling.
-</p>
+<details>
+<summary><strong>More projects</strong></summary>
+
+- [WebOps Commander](https://github.com/la3679/webops-commander) — Incident simulation with typed WebMCP tools, human-approved recovery, and an audit timeline.
+- [Duel Arena](https://github.com/la3679/yu-gi-oh-duel-arena-godot) — A Godot rules engine with deterministic card interactions and regression tests; in development.
+- [Integration Operations Hub](https://github.com/la3679/integration-operations-hub) — Angular dashboard coordinating Express, FastAPI, and .NET services with retries and partial-success handling.
+
+</details>
+
+<sub>Independent portfolio projects using synthetic or public data; unaffiliated with employers.</sub>
 
 <p align="center">
-  <sub>These are independent portfolio projects. They run on synthetic or public data, contain no proprietary employer code or information, and are unaffiliated with any employer.</sub>
-</p>
-
-<p align="center">
-  <a href="https://loveahir.com/work"><img src="https://img.shields.io/badge/Explore_more_projects_and_case_studies-6C63FF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="Explore more projects and case studies"></a>
+  <a href="https://loveahir.com/work"><img src="https://img.shields.io/badge/Projects_and_Case_Studies-6C63FF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="Projects and case studies"></a>
   <a href="https://github.com/la3679?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="All repositories"></a>
 </p>
 
@@ -286,53 +214,31 @@ Mentored graduate students in software testing and led research-paper discussion
 
 ## 🎓 Education
 
-**Rochester Institute of Technology** — M.S., Computer Software Engineering  
-August 2023 – December 2025 · GPA **3.94/4.0** · [Degree credential](https://www.parchment.com/u/award/b3ea5556e3cd2c64abb71e9d3c8c6b6c)
-
-**Gujarat Technological University** — B.E., Electronics and Communication  
-August 2019 – May 2023 · GPA **3.89/4.0** · [Degree document](https://drive.google.com/file/d/1ZyMmLlJTjPd_heem7WerJjiDMulvqedz/view?usp=sharing)
-
+- **RIT** — [M.S., Computer Software Engineering](https://www.parchment.com/u/award/b3ea5556e3cd2c64abb71e9d3c8c6b6c) · 2023–2025 · **3.94/4.0**
+- **Gujarat Technological University** — [B.E., Electronics and Communication](https://drive.google.com/file/d/1ZyMmLlJTjPd_heem7WerJjiDMulvqedz/view?usp=sharing) · 2019–2023 · **3.89/4.0**
 
 ---
 
 ## 🔬 Published Research
 
-<div align="center">
+**[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-)** — EASE 2026
 
-### [Do Privacy Policies Match with the Logs?](https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-)
-
-*An Empirical Study of Privacy Disclosure in Android Application Logs*
-
-<p>
-  <a href="https://conf.researchr.org/details/ease-2026/ease-2026-research-papers/2/Do-Privacy-Policies-Match-with-the-Logs-An-Empirical-Study-of-Privacy-Disclosure-in-"><img src="https://img.shields.io/badge/EASE_2026-Research_Track-8A2BE2?style=for-the-badge&amp;logo=acm&amp;logoColor=white" alt="EASE 2026 Research Track"></a>
-  <a href="https://arxiv.org/abs/2604.18552"><img src="https://img.shields.io/badge/arXiv-2604.18552-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv preprint 2604.18552"></a>
-</p>
-
-</div>
-
-Co-authored a large-scale study comparing privacy-policy disclosures with observed logging behavior across **1,000 Android applications**, **42 app categories**, and **86.8M+ runtime log entries**.
-
-Built a privacy-leakage analysis workflow using **Python, regular expressions, Brain log parsing, and GPT-5-assisted keyword expansion**, with manual validation. Applied text mining, Chi-square tests, Welch’s t-tests, and policy-to-log alignment analysis; only **4 apps** had fully aligned privacy disclosures.
-
+Co-authored a privacy study comparing policy disclosures with **86.8M+ runtime log entries across 1,000 Android apps**. [Read the preprint](https://arxiv.org/abs/2604.18552).
 
 ---
 
 ## 📚 Credentials & Continued Learning
 
-Completed courses, learning paths, and a software engineering job simulation, with links to the issued credentials.
-
-| Credential | Provider / Attribution | Issued |
-| --- | --- | --- |
-| [Building with the Claude API](https://verify.skilljar.com/c/qw9ncfwp74k7) | Anthropic | 2026-08 |
-| [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/aj8uuzaqu3u5) | Anthropic | 2026-08 |
-| [Claude Code in Action](https://verify.skilljar.com/c/c7xxexgvupid) | Anthropic | 2026-08 |
-| [Software Engineering Job Simulation](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_6a0a18c4bf9fe929381fef96_1779050339694_completion_certificate.pdf) | JPMorganChase · Forage | 2026-05 |
+- [Building with the Claude API](https://verify.skilljar.com/c/qw9ncfwp74k7) — Anthropic
+- [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/aj8uuzaqu3u5) — Anthropic
+- [Claude Code in Action](https://verify.skilljar.com/c/c7xxexgvupid) — Anthropic
 
 <details>
-<summary><strong>All other completed courses and learning paths</strong></summary>
+<summary><strong>16 more credentials and learning activities</strong></summary>
 
 | Credential | Provider / Attribution | Issued |
 | --- | --- | --- |
+| [Software Engineering Job Simulation](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_6a0a18c4bf9fe929381fef96_1779050339694_completion_certificate.pdf) | JPMorganChase · Forage | 2026-05 |
 | [Introduction to Model Context Protocol](https://verify.skilljar.com/c/bxbpx8vxtw7t) | Anthropic | 2026-08 |
 | [Introduction to Claude Cowork](https://verify.skilljar.com/c/gcbnd5c7dc4o) | Anthropic | 2026-08 |
 | [Claude Platform 101](https://verify.skilljar.com/c/kdymtyobnxy6) | Anthropic | 2026-08 |
@@ -352,7 +258,6 @@ Completed courses, learning paths, and a software engineering job simulation, wi
 The AZ-900 entry is an exam preparation course, not a Microsoft Azure certification.
 
 </details>
-
 
 ---
 
