@@ -67,42 +67,77 @@ Additional project technologies include LangGraph, FAISS, MongoDB, Next.js, Play
 
 `August 2025 – Present` · `San Jose, California`
 
+Built governed AI workflows, backend services, Spark data pipelines, and full-stack platform features.
+
+<details>
+<summary><strong>Show more</strong></summary>
+
 - Integrated a governed agentic AI workflow using **Databricks Agent Framework, tool calling, and MLflow Tracing**, automating **4 recurring engineering tasks per sprint** after evaluating **1,000+ agent traces**.
 - Developed Python backend services and Java SDK integrations for workspace, job, and metadata operations; caching, validation, and fault handling reduced failed service calls by **18%**.
 - Built PySpark and SQL pipelines on Apache Spark and Delta Lake processing **10M+ records per run**, cutting runtime from **2.5 hours to 40 minutes** through incremental loads with Unity Catalog governance.
 - Delivered FastAPI, React, and TypeScript features across **10+ developer and data workflows**, including REST APIs, asynchronous workflows, and reusable UI components.
 - Maintained **150+ automated checks** with pytest, integration testing, Bazel, and CI/CD; partnered with frontend, platform, data, and SRE engineers to deliver **8+ production workflows**.
 
+</details>
+
 ### Neon IT Systems · Software Engineer II
 
 `May 2022 – July 2023` · `Ahmedabad, India`
+
+Developed multi-tenant SaaS APIs, improved PostgreSQL performance, and strengthened production releases.
+
+<details>
+<summary><strong>Show more</strong></summary>
 
 - Architected multi-tenant SaaS modules using Java, Spring Boot, Python, and React, delivering **20+ REST APIs** for tenant configuration, access control, notifications, and customer-facing administration.
 - Optimized PostgreSQL queries, indexes, and connection pooling, reducing service **p95 latency from 2.1 seconds to 480 ms** across **250K+ records** and ML prediction data.
 - Decoupled scheduled processing and bulk data loads into Python background jobs, reducing API timeout errors by **24%**.
 - Supported **12 application releases** using JUnit, pytest, Docker, Jenkins, and AWS deployment workflows; mentored **3 junior engineers** through reviews, debugging, API design, and testing.
 
+</details>
+
 ### Neon IT Systems · Associate Software Engineer
 
 `February 2021 – April 2022` · `Ahmedabad, India`
+
+Built enterprise workflow features and automated data validation, reporting, and file processing.
+
+<details>
+<summary><strong>Show more</strong></summary>
 
 - Built responsive React interfaces and **15+ REST APIs** with Java, Spring Boot, and PostgreSQL for user, approval, reporting, and administrative workflows.
 - Automated data validation, scheduled reporting, and file processing across **100K+ business records**, saving the support team **7 hours per week**.
 - Wrote JUnit and pytest integration tests with senior engineers and QA, and resolved **18+ production defects** across sprint releases.
 
+</details>
+
 ### Rochester Institute of Technology · Graduate Research Assistant — Privacy & Security
 
 `August 2024 – December 2025` · `Rochester, New York`
 
+Researched Android privacy disclosures and runtime logging, contributing to an EASE 2026 paper.
+
+<details>
+<summary><strong>Show more</strong></summary>
+
 - Co-authored an **EASE 2026 Research Track paper** comparing privacy policies with runtime logging across **1,000 Android applications** and **86.8M+ log entries**.
 - Built Python automation using ADB, Monkey, and Logcat for app exploration and behavioral analysis; contributed to privacy-leakage analysis and validation.
+
+</details>
 
 ### Rochester Institute of Technology · Teaching Assistant — Software Quality Assurance
 
 `August 2025 – December 2025` · `Rochester, New York`
 
+Mentored graduate students in software testing and led research-paper discussions for SWEN 777.
+
+<details>
+<summary><strong>Show more</strong></summary>
+
 - Supported graduate **SWEN 777** instruction under **Dr. Xueling Zhang**, mentoring students in software testing methodology.
 - Led seminars covering **25+ research papers** and held weekly office hours to support assignments and research.
+
+</details>
 
 
 ---
